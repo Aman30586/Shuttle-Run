@@ -1,0 +1,443 @@
+[INFO ] 05-04-2024 05:06:57.793 pm [http-nio-9093-exec-1] com.security.service.AuthService - Token generated successfully!
+[INFO ] 05-04-2024 06:49:39.442 pm [http-nio-9093-exec-1] com.security.service.AuthService - Customer credentials added successfully!
+[INFO ] 05-04-2024 06:52:25.544 pm [http-nio-9093-exec-4] com.security.service.AuthService - Token generated successfully!
+[INFO ] 05-04-2024 07:16:41.690 pm [http-nio-9093-exec-5] com.security.service.AuthService - Customer credentials added successfully!
+[INFO ] 05-04-2024 09:37:22.093 pm [http-nio-9093-exec-3] com.security.service.AuthService - Token generated successfully!
+[INFO ] 06-04-2024 10:49:59.141 am [http-nio-9093-exec-5] com.security.service.AuthService - Token generated successfully!
+[INFO ] 06-04-2024 10:51:31.161 am [http-nio-9093-exec-8] com.security.service.AuthService - Token generated successfully!
+[INFO ] 06-04-2024 11:42:22.177 am [http-nio-9093-exec-10] com.security.service.AuthService - Token generated successfully!
+[INFO ] 06-04-2024 11:51:54.577 am [http-nio-9093-exec-5] com.security.service.AuthService - Driver credentials added successfully!
+[INFO ] 06-04-2024 11:54:15.622 am [http-nio-9093-exec-7] com.security.service.AuthService - Token generated successfully!
+[INFO ] 06-04-2024 11:54:29.746 am [http-nio-9093-exec-8] com.security.service.AuthService - Driver credentials added successfully!
+[INFO ] 06-04-2024 12:05:28.026 pm [http-nio-9093-exec-1] com.security.service.AuthService - Token generated successfully!
+[INFO ] 06-04-2024 12:09:50.109 pm [http-nio-9093-exec-1] com.security.service.AuthService - Driver credentials added successfully!
+[INFO ] 06-04-2024 12:13:02.948 pm [http-nio-9093-exec-1] com.security.service.AuthService - Driver credentials added successfully!
+[INFO ] 06-04-2024 12:18:55.071 pm [http-nio-9093-exec-1] com.security.service.AuthService - Driver credentials added successfully!
+[INFO ] 06-04-2024 12:20:02.589 pm [http-nio-9093-exec-3] com.security.service.AuthService - Driver Credentials deleted!
+[INFO ] 06-04-2024 12:51:37.696 pm [http-nio-9093-exec-10] com.security.service.AuthService - Customer credentials added successfully!
+[INFO ] 06-04-2024 12:56:22.578 pm [http-nio-9093-exec-2] com.security.service.AuthService - Token generated successfully!
+[INFO ] 06-04-2024 12:56:41.663 pm [http-nio-9093-exec-3] com.security.service.AuthService - Driver credentials added successfully!
+[INFO ] 06-04-2024 01:04:31.132 pm [http-nio-9093-exec-6] com.security.service.AuthService - Token generated successfully!
+[INFO ] 06-04-2024 01:07:38.471 pm [http-nio-9093-exec-8] com.security.service.AuthService - Token generated successfully!
+[INFO ] 06-04-2024 02:38:23.496 pm [http-nio-9093-exec-3] com.security.service.AuthService - Customer credentials added successfully!
+[INFO ] 06-04-2024 02:41:45.904 pm [http-nio-9093-exec-1] com.security.service.AuthService - Customer credentials added successfully!
+[INFO ] 06-04-2024 02:44:10.514 pm [http-nio-9093-exec-1] com.security.service.AuthService - Customer credentials added successfully!
+[INFO ] 06-04-2024 02:44:46.257 pm [http-nio-9093-exec-2] com.security.service.AuthService - Customer credentials added successfully!
+[INFO ] 06-04-2024 02:51:06.721 pm [http-nio-9093-exec-4] com.security.service.AuthService - Token generated successfully!
+[INFO ] 06-04-2024 02:51:22.580 pm [http-nio-9093-exec-5] com.security.service.AuthService - Driver credentials added successfully!
+[INFO ] 06-04-2024 02:55:30.258 pm [http-nio-9093-exec-8] com.security.service.AuthService - Driver credentials added successfully!
+[INFO ] 06-04-2024 03:01:18.064 pm [http-nio-9093-exec-1] com.security.service.AuthService - Customer credentials added successfully!
+[INFO ] 06-04-2024 03:02:25.436 pm [http-nio-9093-exec-2] com.security.service.AuthService - Customer credentials added successfully!
+[INFO ] 06-04-2024 03:04:57.069 pm [http-nio-9093-exec-3] com.security.service.AuthService - Token generated successfully!
+[INFO ] 06-04-2024 03:09:20.649 pm [http-nio-9093-exec-7] com.security.service.AuthService - Token generated successfully!
+[INFO ] 06-04-2024 03:53:26.877 pm [http-nio-9093-exec-1] com.security.service.AuthService - Token generated successfully!
+[INFO ] 06-04-2024 03:54:33.278 pm [http-nio-9093-exec-5] com.security.service.AuthService - Driver credentials added successfully!
+[INFO ] 06-04-2024 04:00:56.831 pm [http-nio-9093-exec-9] com.security.service.AuthService - Driver credentials added successfully!
+[INFO ] 06-04-2024 04:30:17.075 pm [http-nio-9093-exec-3] com.security.service.AuthService - Token generated successfully!
+[INFO ] 06-04-2024 04:35:06.133 pm [http-nio-9093-exec-7] com.security.service.AuthService - Driver credentials added successfully!
+[INFO ] 06-04-2024 05:43:23.617 pm [http-nio-9093-exec-1] com.security.service.AuthService - Token generated successfully!
+[INFO ] 06-04-2024 06:24:51.147 pm [http-nio-9093-exec-5] com.security.service.AuthService - Token generated successfully!
+[INFO ] 06-04-2024 07:01:49.858 pm [http-nio-9093-exec-2] com.security.service.AuthService - Token generated successfully!
+[INFO ] 06-04-2024 07:17:50.205 pm [http-nio-9093-exec-6] com.security.service.AuthService - Token generated successfully!
+[INFO ] 06-04-2024 07:37:12.067 pm [http-nio-9093-exec-1] com.security.service.AuthService - Token generated successfully!
+[INFO ] 06-04-2024 07:50:02.107 pm [http-nio-9093-exec-3] com.security.service.AuthService - Token generated successfully!
+[INFO ] 06-04-2024 08:01:18.134 pm [http-nio-9093-exec-3] com.security.service.AuthService - Token generated successfully!
+[INFO ] 06-04-2024 08:50:13.878 pm [http-nio-9093-exec-5] com.security.service.AuthService - Token generated successfully!
+[INFO ] 06-04-2024 09:36:50.922 pm [http-nio-9093-exec-2] com.security.service.AuthService - Token generated successfully!
+[INFO ] 06-04-2024 09:43:28.334 pm [http-nio-9093-exec-3] com.security.service.AuthService - Token generated successfully!
+[INFO ] 06-04-2024 09:51:14.604 pm [http-nio-9093-exec-8] com.security.service.AuthService - Token generated successfully!
+[INFO ] 06-04-2024 09:53:39.914 pm [http-nio-9093-exec-4] com.security.service.AuthService - User Credentials deleted!
+[INFO ] 06-04-2024 09:54:45.841 pm [http-nio-9093-exec-6] com.security.service.AuthService - User Credentials deleted!
+[INFO ] 07-04-2024 08:29:05.104 am [http-nio-9093-exec-2] com.security.service.AuthService - Token generated successfully!
+[INFO ] 07-04-2024 08:55:18.046 am [http-nio-9093-exec-1] com.security.service.AuthService - User Credentials deleted!
+[INFO ] 07-04-2024 09:26:19.162 am [http-nio-9093-exec-1] com.security.service.AuthService - User Credentials deleted!
+[INFO ] 07-04-2024 09:33:51.436 am [http-nio-9093-exec-3] com.security.service.AuthService - User Credentials deleted!
+[INFO ] 07-04-2024 09:46:04.851 am [http-nio-9093-exec-5] com.security.service.AuthService - User Credentials deleted!
+[INFO ] 07-04-2024 10:10:37.740 am [http-nio-9093-exec-7] com.security.service.AuthService - User Credentials deleted!
+[INFO ] 07-04-2024 10:12:10.500 am [http-nio-9093-exec-9] com.security.service.AuthService - User Credentials deleted!
+[INFO ] 07-04-2024 10:13:11.999 am [http-nio-9093-exec-1] com.security.service.AuthService - User Credentials deleted!
+[INFO ] 07-04-2024 10:14:35.761 am [http-nio-9093-exec-3] com.security.service.AuthService - User Credentials deleted!
+[INFO ] 07-04-2024 10:17:00.999 am [http-nio-9093-exec-5] com.security.service.AuthService - Token generated successfully!
+[INFO ] 07-04-2024 10:56:28.998 am [http-nio-9093-exec-7] com.security.service.AuthService - Driver credentials added successfully!
+[INFO ] 07-04-2024 11:01:15.389 am [http-nio-9093-exec-9] com.security.service.AuthService - Driver credentials added successfully!
+[INFO ] 07-04-2024 11:03:08.953 am [http-nio-9093-exec-1] com.security.service.AuthService - Driver credentials added successfully!
+[INFO ] 07-04-2024 11:04:31.844 am [http-nio-9093-exec-3] com.security.service.AuthService - Driver credentials added successfully!
+[INFO ] 07-04-2024 11:06:30.027 am [http-nio-9093-exec-5] com.security.service.AuthService - Driver credentials added successfully!
+[INFO ] 07-04-2024 11:06:30.257 am [http-nio-9093-exec-6] com.security.service.AuthService - Driver credentials added successfully!
+[INFO ] 07-04-2024 11:07:21.740 am [http-nio-9093-exec-8] com.security.service.AuthService - Driver Credentials deleted!
+[INFO ] 07-04-2024 11:09:22.037 am [http-nio-9093-exec-9] com.security.service.AuthService - Driver credentials added successfully!
+[INFO ] 07-04-2024 11:09:22.262 am [http-nio-9093-exec-10] com.security.service.AuthService - Driver credentials added successfully!
+[INFO ] 07-04-2024 11:11:05.155 am [http-nio-9093-exec-2] com.security.service.AuthService - Driver Credentials deleted!
+[INFO ] 07-04-2024 11:11:55.701 am [http-nio-9093-exec-3] com.security.service.AuthService - Driver credentials added successfully!
+[INFO ] 07-04-2024 11:11:55.953 am [http-nio-9093-exec-4] com.security.service.AuthService - Driver credentials added successfully!
+[INFO ] 07-04-2024 11:13:23.339 am [http-nio-9093-exec-6] com.security.service.AuthService - Driver credentials added successfully!
+[INFO ] 07-04-2024 11:13:23.535 am [http-nio-9093-exec-7] com.security.service.AuthService - Driver credentials added successfully!
+[INFO ] 07-04-2024 11:14:38.726 am [http-nio-9093-exec-9] com.security.service.AuthService - Driver Credentials deleted!
+[INFO ] 07-04-2024 11:16:19.206 am [http-nio-9093-exec-10] com.security.service.AuthService - Driver credentials added successfully!
+[INFO ] 07-04-2024 11:16:19.433 am [http-nio-9093-exec-1] com.security.service.AuthService - Driver credentials added successfully!
+[INFO ] 07-04-2024 11:18:01.355 am [http-nio-9093-exec-3] com.security.service.AuthService - Driver Credentials deleted!
+[INFO ] 07-04-2024 11:18:56.994 am [http-nio-9093-exec-4] com.security.service.AuthService - Driver credentials added successfully!
+[INFO ] 07-04-2024 11:18:57.332 am [http-nio-9093-exec-5] com.security.service.AuthService - Driver credentials added successfully!
+[INFO ] 07-04-2024 11:22:44.931 am [http-nio-9093-exec-7] com.security.service.AuthService - Driver credentials added successfully!
+[INFO ] 07-04-2024 11:22:45.236 am [http-nio-9093-exec-8] com.security.service.AuthService - Driver credentials added successfully!
+[INFO ] 07-04-2024 11:25:45.882 am [http-nio-9093-exec-10] com.security.service.AuthService - Driver credentials added successfully!
+[INFO ] 07-04-2024 11:25:46.279 am [http-nio-9093-exec-1] com.security.service.AuthService - Driver credentials added successfully!
+[INFO ] 07-04-2024 11:47:47.596 am [http-nio-9093-exec-1] com.security.service.AuthService - Driver credentials added successfully!
+[INFO ] 07-04-2024 11:47:48.092 am [http-nio-9093-exec-2] com.security.service.AuthService - Driver credentials added successfully!
+[INFO ] 07-04-2024 11:53:41.655 am [http-nio-9093-exec-4] com.security.service.AuthService - Driver credentials added successfully!
+[INFO ] 07-04-2024 11:53:41.893 am [http-nio-9093-exec-5] com.security.service.AuthService - Driver credentials added successfully!
+[INFO ] 07-04-2024 11:55:26.463 am [http-nio-9093-exec-7] com.security.service.AuthService - Token generated successfully!
+[INFO ] 07-04-2024 12:02:25.049 pm [http-nio-9093-exec-9] com.security.service.AuthService - Driver credentials added successfully!
+[INFO ] 07-04-2024 12:03:16.809 pm [http-nio-9093-exec-1] com.security.service.AuthService - Driver credentials added successfully!
+[INFO ] 07-04-2024 12:08:13.639 pm [http-nio-9093-exec-3] com.security.service.AuthService - Driver credentials added successfully!
+[INFO ] 07-04-2024 12:08:13.887 pm [http-nio-9093-exec-4] com.security.service.AuthService - Driver credentials added successfully!
+[INFO ] 07-04-2024 12:09:55.137 pm [http-nio-9093-exec-6] com.security.service.AuthService - Driver credentials added successfully!
+[INFO ] 07-04-2024 12:10:47.898 pm [http-nio-9093-exec-8] com.security.service.AuthService - Driver credentials added successfully!
+[INFO ] 07-04-2024 12:10:48.183 pm [http-nio-9093-exec-9] com.security.service.AuthService - Driver credentials added successfully!
+[INFO ] 07-04-2024 12:12:17.453 pm [http-nio-9093-exec-1] com.security.service.AuthService - Driver credentials added successfully!
+[INFO ] 07-04-2024 12:12:17.691 pm [http-nio-9093-exec-2] com.security.service.AuthService - Driver credentials added successfully!
+[INFO ] 07-04-2024 12:15:07.942 pm [http-nio-9093-exec-4] com.security.service.AuthService - Driver credentials added successfully!
+[INFO ] 07-04-2024 12:15:08.169 pm [http-nio-9093-exec-5] com.security.service.AuthService - Driver credentials added successfully!
+[INFO ] 07-04-2024 12:29:00.327 pm [http-nio-9093-exec-7] com.security.service.AuthService - Driver credentials added successfully!
+[INFO ] 07-04-2024 12:30:58.563 pm [http-nio-9093-exec-9] com.security.service.AuthService - Driver credentials added successfully!
+[INFO ] 07-04-2024 12:30:58.871 pm [http-nio-9093-exec-10] com.security.service.AuthService - Driver credentials added successfully!
+[INFO ] 07-04-2024 12:37:41.388 pm [http-nio-9093-exec-2] com.security.service.AuthService - Driver credentials added successfully!
+[INFO ] 07-04-2024 12:37:41.631 pm [http-nio-9093-exec-3] com.security.service.AuthService - Driver credentials added successfully!
+[INFO ] 07-04-2024 12:38:50.414 pm [http-nio-9093-exec-5] com.security.service.AuthService - Driver credentials added successfully!
+[INFO ] 07-04-2024 12:38:50.654 pm [http-nio-9093-exec-6] com.security.service.AuthService - Driver credentials added successfully!
+[INFO ] 07-04-2024 02:05:38.455 pm [http-nio-9093-exec-8] com.security.service.AuthService - Driver credentials added successfully!
+[INFO ] 07-04-2024 02:05:38.825 pm [http-nio-9093-exec-9] com.security.service.AuthService - Driver credentials added successfully!
+[INFO ] 07-04-2024 02:22:13.668 pm [http-nio-9093-exec-1] com.security.service.AuthService - Driver credentials added successfully!
+[INFO ] 07-04-2024 02:22:14.153 pm [http-nio-9093-exec-2] com.security.service.AuthService - Driver credentials added successfully!
+[INFO ] 07-04-2024 02:28:37.639 pm [http-nio-9093-exec-4] com.security.service.AuthService - Driver credentials added successfully!
+[INFO ] 07-04-2024 02:28:37.956 pm [http-nio-9093-exec-5] com.security.service.AuthService - Driver credentials added successfully!
+[INFO ] 07-04-2024 02:30:39.897 pm [http-nio-9093-exec-7] com.security.service.AuthService - Driver credentials added successfully!
+[INFO ] 07-04-2024 02:30:40.221 pm [http-nio-9093-exec-8] com.security.service.AuthService - Driver credentials added successfully!
+[INFO ] 07-04-2024 05:29:09.169 pm [http-nio-9093-exec-10] com.security.service.AuthService - Token generated successfully!
+[INFO ] 07-04-2024 07:49:45.871 pm [http-nio-9093-exec-1] com.security.service.AuthService - Token generated successfully!
+[INFO ] 07-04-2024 08:56:21.450 pm [http-nio-9093-exec-3] com.security.service.AuthService - Customer credentials added successfully!
+[INFO ] 07-04-2024 09:02:10.565 pm [http-nio-9093-exec-5] com.security.service.AuthService - Token generated successfully!
+[INFO ] 07-04-2024 09:04:26.386 pm [http-nio-9093-exec-9] com.security.service.AuthService - Customer credentials added successfully!
+[INFO ] 07-04-2024 09:04:56.918 pm [http-nio-9093-exec-10] com.security.service.AuthService - Token generated successfully!
+[INFO ] 08-04-2024 10:01:25.485 am [http-nio-9093-exec-1] com.security.service.AuthService - Token generated successfully!
+[INFO ] 08-04-2024 10:15:34.435 am [http-nio-9093-exec-1] com.security.service.AuthService - Updating user's username
+[INFO ] 08-04-2024 10:45:43.228 am [http-nio-9093-exec-1] com.security.service.AuthService - Customer credentials added successfully!
+[INFO ] 08-04-2024 10:47:13.048 am [http-nio-9093-exec-3] com.security.service.AuthService - Customer credentials added successfully!
+[INFO ] 08-04-2024 10:48:49.992 am [http-nio-9093-exec-5] com.security.service.AuthService - Customer credentials added successfully!
+[INFO ] 08-04-2024 10:50:11.908 am [http-nio-9093-exec-7] com.security.service.AuthService - Customer credentials added successfully!
+[INFO ] 08-04-2024 10:52:30.710 am [http-nio-9093-exec-10] com.security.service.AuthService - Customer credentials added successfully!
+[INFO ] 08-04-2024 10:52:49.045 am [http-nio-9093-exec-1] com.security.service.AuthService - Customer credentials added successfully!
+[INFO ] 08-04-2024 10:52:58.428 am [http-nio-9093-exec-2] com.security.service.AuthService - Customer credentials added successfully!
+[INFO ] 08-04-2024 10:54:38.786 am [http-nio-9093-exec-4] com.security.service.AuthService - Customer credentials added successfully!
+[INFO ] 08-04-2024 10:55:35.885 am [http-nio-9093-exec-5] com.security.service.AuthService - Customer credentials added successfully!
+[INFO ] 08-04-2024 10:57:31.015 am [http-nio-9093-exec-7] com.security.service.AuthService - Customer credentials added successfully!
+[INFO ] 08-04-2024 11:03:37.490 am [http-nio-9093-exec-9] com.security.service.AuthService - Token generated successfully!
+[INFO ] 08-04-2024 11:06:11.706 am [http-nio-9093-exec-1] com.security.service.AuthService - Driver credentials added successfully!
+[INFO ] 08-04-2024 11:09:12.306 am [http-nio-9093-exec-3] com.security.service.AuthService - Driver credentials added successfully!
+[INFO ] 08-04-2024 11:12:56.587 am [http-nio-9093-exec-5] com.security.service.AuthService - Driver credentials added successfully!
+[INFO ] 08-04-2024 11:19:46.756 am [http-nio-9093-exec-7] com.security.service.AuthService - Driver credentials added successfully!
+[INFO ] 08-04-2024 11:21:43.061 am [http-nio-9093-exec-9] com.security.service.AuthService - Driver credentials added successfully!
+[INFO ] 08-04-2024 11:23:59.999 am [http-nio-9093-exec-1] com.security.service.AuthService - Driver credentials added successfully!
+[INFO ] 08-04-2024 11:36:16.476 am [http-nio-9093-exec-1] com.security.service.AuthService - Token generated successfully!
+[INFO ] 08-04-2024 11:37:15.288 am [http-nio-9093-exec-3] com.security.service.AuthService - Updating driver's username
+[INFO ] 08-04-2024 11:42:25.660 am [http-nio-9093-exec-6] com.security.service.AuthService - Token generated successfully!
+[INFO ] 08-04-2024 11:56:48.569 am [http-nio-9093-exec-9] com.security.service.AuthService - Token generated successfully!
+[INFO ] 08-04-2024 12:20:40.696 pm [http-nio-9093-exec-1] com.security.service.AuthService - User Credentials deleted!
+[INFO ] 08-04-2024 12:23:26.673 pm [http-nio-9093-exec-4] com.security.service.AuthService - Driver credentials added successfully!
+[INFO ] 08-04-2024 12:25:21.118 pm [http-nio-9093-exec-6] com.security.service.AuthService - Driver credentials added successfully!
+[INFO ] 08-04-2024 12:25:21.456 pm [http-nio-9093-exec-7] com.security.service.AuthService - Driver credentials added successfully!
+[INFO ] 08-04-2024 12:26:30.892 pm [http-nio-9093-exec-9] com.security.service.AuthService - Driver Credentials deleted!
+[INFO ] 08-04-2024 12:26:31.151 pm [http-nio-9093-exec-10] com.security.service.AuthService - Driver credentials added successfully!
+[INFO ] 08-04-2024 12:26:31.524 pm [http-nio-9093-exec-1] com.security.service.AuthService - Driver credentials added successfully!
+[INFO ] 08-04-2024 09:24:07.238 pm [http-nio-9093-exec-6] com.security.service.AuthService - User Credentials deleted!
+[INFO ] 08-04-2024 09:24:07.520 pm [http-nio-9093-exec-7] com.security.service.AuthService - User Credentials deleted!
+[INFO ] 08-04-2024 09:24:07.567 pm [http-nio-9093-exec-10] com.security.service.AuthService - User Credentials deleted!
+[INFO ] 08-04-2024 09:24:07.617 pm [http-nio-9093-exec-9] com.security.service.AuthService - User Credentials deleted!
+[INFO ] 08-04-2024 09:24:07.665 pm [http-nio-9093-exec-1] com.security.service.AuthService - User Credentials deleted!
+[INFO ] 08-04-2024 09:24:07.718 pm [http-nio-9093-exec-4] com.security.service.AuthService - User Credentials deleted!
+[INFO ] 08-04-2024 09:24:07.754 pm [http-nio-9093-exec-2] com.security.service.AuthService - User Credentials deleted!
+[INFO ] 08-04-2024 09:24:07.810 pm [http-nio-9093-exec-5] com.security.service.AuthService - User Credentials deleted!
+[INFO ] 08-04-2024 09:24:07.847 pm [http-nio-9093-exec-3] com.security.service.AuthService - User Credentials deleted!
+[INFO ] 08-04-2024 09:24:07.893 pm [http-nio-9093-exec-8] com.security.service.AuthService - User Credentials deleted!
+[INFO ] 08-04-2024 09:24:07.927 pm [http-nio-9093-exec-6] com.security.service.AuthService - User Credentials deleted!
+[INFO ] 08-04-2024 09:24:07.972 pm [http-nio-9093-exec-7] com.security.service.AuthService - User Credentials deleted!
+[INFO ] 08-04-2024 09:24:08.013 pm [http-nio-9093-exec-10] com.security.service.AuthService - User Credentials deleted!
+[INFO ] 08-04-2024 09:24:08.051 pm [http-nio-9093-exec-9] com.security.service.AuthService - User Credentials deleted!
+[INFO ] 08-04-2024 09:24:08.086 pm [http-nio-9093-exec-1] com.security.service.AuthService - User Credentials deleted!
+[INFO ] 08-04-2024 09:24:08.145 pm [http-nio-9093-exec-4] com.security.service.AuthService - User Credentials deleted!
+[INFO ] 08-04-2024 09:24:08.179 pm [http-nio-9093-exec-2] com.security.service.AuthService - User Credentials deleted!
+[INFO ] 08-04-2024 09:24:08.208 pm [http-nio-9093-exec-5] com.security.service.AuthService - User Credentials deleted!
+[INFO ] 08-04-2024 09:24:08.237 pm [http-nio-9093-exec-3] com.security.service.AuthService - User Credentials deleted!
+[INFO ] 08-04-2024 09:24:08.263 pm [http-nio-9093-exec-8] com.security.service.AuthService - User Credentials deleted!
+[INFO ] 08-04-2024 09:24:08.280 pm [http-nio-9093-exec-6] com.security.service.AuthService - User Credentials deleted!
+[INFO ] 08-04-2024 09:24:08.321 pm [http-nio-9093-exec-7] com.security.service.AuthService - User Credentials deleted!
+[INFO ] 08-04-2024 09:24:08.360 pm [http-nio-9093-exec-10] com.security.service.AuthService - User Credentials deleted!
+[INFO ] 08-04-2024 09:24:08.409 pm [http-nio-9093-exec-9] com.security.service.AuthService - User Credentials deleted!
+[INFO ] 08-04-2024 09:24:08.444 pm [http-nio-9093-exec-1] com.security.service.AuthService - User Credentials deleted!
+[INFO ] 08-04-2024 09:24:08.482 pm [http-nio-9093-exec-4] com.security.service.AuthService - User Credentials deleted!
+[INFO ] 08-04-2024 09:24:08.528 pm [http-nio-9093-exec-2] com.security.service.AuthService - User Credentials deleted!
+[INFO ] 08-04-2024 09:26:58.234 pm [http-nio-9093-exec-6] com.security.service.AuthService - Customer credentials added successfully!
+[INFO ] 08-04-2024 09:28:16.446 pm [http-nio-9093-exec-10] com.security.service.AuthService - Customer credentials added successfully!
+[INFO ] 09-04-2024 04:43:14.635 pm [http-nio-9093-exec-2] com.security.service.AuthService - Token generated successfully!
+[INFO ] 09-04-2024 04:48:37.463 pm [http-nio-9093-exec-4] com.security.service.AuthService - Token generated successfully!
+[INFO ] 09-04-2024 04:55:05.832 pm [http-nio-9093-exec-6] com.security.service.AuthService - Token generated successfully!
+[INFO ] 09-04-2024 04:58:26.992 pm [http-nio-9093-exec-8] com.security.service.AuthService - Token generated successfully!
+[INFO ] 09-04-2024 05:00:43.748 pm [http-nio-9093-exec-10] com.security.service.AuthService - Token generated successfully!
+[INFO ] 09-04-2024 05:04:56.730 pm [http-nio-9093-exec-2] com.security.service.AuthService - Token generated successfully!
+[INFO ] 09-04-2024 05:07:55.312 pm [http-nio-9093-exec-4] com.security.service.AuthService - Token generated successfully!
+[INFO ] 09-04-2024 05:13:44.212 pm [http-nio-9093-exec-7] com.security.service.AuthService - Token generated successfully!
+[INFO ] 09-04-2024 05:14:56.349 pm [http-nio-9093-exec-9] com.security.service.AuthService - Token generated successfully!
+[INFO ] 09-04-2024 05:20:02.035 pm [http-nio-9093-exec-1] com.security.service.AuthService - Token generated successfully!
+[INFO ] 09-04-2024 05:39:39.965 pm [http-nio-9093-exec-1] com.security.service.AuthService - Token generated successfully!
+[INFO ] 09-04-2024 05:50:42.720 pm [http-nio-9093-exec-4] com.security.service.AuthService - Token generated successfully!
+[INFO ] 09-04-2024 06:46:01.629 pm [http-nio-9093-exec-2] com.security.service.AuthService - Token generated successfully!
+[INFO ] 09-04-2024 06:47:38.810 pm [http-nio-9093-exec-5] com.security.service.AuthService - Token generated successfully!
+[INFO ] 09-04-2024 07:08:51.214 pm [http-nio-9093-exec-7] com.security.service.AuthService - Token generated successfully!
+[INFO ] 09-04-2024 07:09:57.231 pm [http-nio-9093-exec-9] com.security.service.AuthService - Token generated successfully!
+[INFO ] 09-04-2024 07:27:31.333 pm [http-nio-9093-exec-4] com.security.service.AuthService - Token generated successfully!
+[INFO ] 09-04-2024 08:29:55.567 pm [http-nio-9093-exec-2] com.security.service.AuthService - Token generated successfully!
+[INFO ] 09-04-2024 08:34:13.525 pm [http-nio-9093-exec-4] com.security.service.AuthService - Token generated successfully!
+[INFO ] 10-04-2024 08:51:37.435 am [http-nio-9093-exec-2] com.security.service.AuthService - Token generated successfully!
+[INFO ] 10-04-2024 08:56:57.900 am [http-nio-9093-exec-5] com.security.service.AuthService - Token generated successfully!
+[INFO ] 10-04-2024 08:58:56.101 am [http-nio-9093-exec-9] com.security.service.AuthService - Token generated successfully!
+[INFO ] 10-04-2024 10:32:11.877 am [http-nio-9093-exec-10] com.security.service.AuthService - Customer credentials added successfully!
+[INFO ] 10-04-2024 10:36:04.331 am [http-nio-9093-exec-2] com.security.service.AuthService - Customer credentials added successfully!
+[INFO ] 10-04-2024 10:36:24.079 am [http-nio-9093-exec-4] com.security.service.AuthService - Token generated successfully!
+[INFO ] 10-04-2024 06:47:42.264 pm [http-nio-9093-exec-2] com.security.service.AuthService - Token generated successfully!
+[INFO ] 10-04-2024 10:23:30.862 pm [http-nio-9093-exec-5] com.security.service.AuthService - Token generated successfully!
+[INFO ] 10-04-2024 10:23:48.422 pm [http-nio-9093-exec-6] com.security.service.AuthService - Token generated successfully!
+[INFO ] 10-04-2024 10:32:32.923 pm [http-nio-9093-exec-8] com.security.service.AuthService - Token generated successfully!
+[INFO ] 10-04-2024 10:34:26.578 pm [http-nio-9093-exec-10] com.security.service.AuthService - Token generated successfully!
+[INFO ] 10-04-2024 10:35:29.702 pm [http-nio-9093-exec-2] com.security.service.AuthService - Token generated successfully!
+[INFO ] 10-04-2024 10:35:59.293 pm [http-nio-9093-exec-3] com.security.service.AuthService - Token generated successfully!
+[INFO ] 10-04-2024 10:38:41.263 pm [http-nio-9093-exec-5] com.security.service.AuthService - Token generated successfully!
+[INFO ] 10-04-2024 10:39:38.233 pm [http-nio-9093-exec-6] com.security.service.AuthService - Token generated successfully!
+[INFO ] 10-04-2024 10:39:47.991 pm [http-nio-9093-exec-7] com.security.service.AuthService - Token generated successfully!
+[INFO ] 10-04-2024 10:47:01.541 pm [http-nio-9093-exec-9] com.security.service.AuthService - Token generated successfully!
+[INFO ] 10-04-2024 10:47:32.310 pm [http-nio-9093-exec-10] com.security.service.AuthService - Token generated successfully!
+[INFO ] 10-04-2024 10:47:54.670 pm [http-nio-9093-exec-1] com.security.service.AuthService - Token generated successfully!
+[INFO ] 11-04-2024 09:23:55.297 am [http-nio-9093-exec-4] com.security.service.AuthService - Token generated successfully!
+[INFO ] 11-04-2024 09:26:22.603 am [http-nio-9093-exec-6] com.security.service.AuthService - Token generated successfully!
+[INFO ] 11-04-2024 12:58:16.510 pm [http-nio-9093-exec-2] com.security.service.AuthService - Token generated successfully!
+[INFO ] 11-04-2024 01:05:25.583 pm [http-nio-9093-exec-1] com.security.service.AuthService - Token generated successfully!
+[INFO ] 11-04-2024 01:06:56.250 pm [http-nio-9093-exec-1] com.security.service.AuthService - Token generated successfully!
+[INFO ] 11-04-2024 01:08:25.590 pm [http-nio-9093-exec-3] com.security.service.AuthService - Token generated successfully!
+[INFO ] 11-04-2024 01:37:30.954 pm [http-nio-9093-exec-6] com.security.service.AuthService - Token generated successfully!
+[INFO ] 11-04-2024 01:50:31.338 pm [http-nio-9093-exec-9] com.security.service.AuthService - Token generated successfully!
+[INFO ] 11-04-2024 01:55:02.177 pm [http-nio-9093-exec-1] com.security.service.AuthService - Token generated successfully!
+[INFO ] 11-04-2024 01:55:15.327 pm [http-nio-9093-exec-3] com.security.service.AuthService - Token generated successfully!
+[INFO ] 11-04-2024 01:55:58.019 pm [http-nio-9093-exec-5] com.security.service.AuthService - Token generated successfully!
+[INFO ] 11-04-2024 01:57:44.117 pm [http-nio-9093-exec-7] com.security.service.AuthService - Token generated successfully!
+[INFO ] 11-04-2024 01:59:27.687 pm [http-nio-9093-exec-9] com.security.service.AuthService - Token generated successfully!
+[INFO ] 11-04-2024 02:04:12.874 pm [http-nio-9093-exec-1] com.security.service.AuthService - Token generated successfully!
+[INFO ] 11-04-2024 02:08:18.045 pm [http-nio-9093-exec-4] com.security.service.AuthService - Token generated successfully!
+[INFO ] 11-04-2024 02:09:16.972 pm [http-nio-9093-exec-5] com.security.service.AuthService - Token generated successfully!
+[INFO ] 11-04-2024 02:12:30.192 pm [http-nio-9093-exec-7] com.security.service.AuthService - Token generated successfully!
+[INFO ] 11-04-2024 02:13:33.444 pm [http-nio-9093-exec-9] com.security.service.AuthService - Token generated successfully!
+[INFO ] 11-04-2024 02:18:18.610 pm [http-nio-9093-exec-1] com.security.service.AuthService - Token generated successfully!
+[INFO ] 11-04-2024 02:20:46.716 pm [http-nio-9093-exec-3] com.security.service.AuthService - Token generated successfully!
+[INFO ] 11-04-2024 02:23:38.213 pm [http-nio-9093-exec-5] com.security.service.AuthService - Token generated successfully!
+[INFO ] 11-04-2024 02:26:25.119 pm [http-nio-9093-exec-7] com.security.service.AuthService - Token generated successfully!
+[INFO ] 11-04-2024 02:31:36.300 pm [http-nio-9093-exec-9] com.security.service.AuthService - Token generated successfully!
+[INFO ] 11-04-2024 02:40:26.919 pm [http-nio-9093-exec-2] com.security.service.AuthService - Token generated successfully!
+[INFO ] 11-04-2024 02:42:04.086 pm [http-nio-9093-exec-4] com.security.service.AuthService - Token generated successfully!
+[INFO ] 11-04-2024 02:43:04.387 pm [http-nio-9093-exec-6] com.security.service.AuthService - Token generated successfully!
+[INFO ] 11-04-2024 02:47:56.919 pm [http-nio-9093-exec-8] com.security.service.AuthService - Token generated successfully!
+[INFO ] 11-04-2024 03:00:46.938 pm [http-nio-9093-exec-1] com.security.service.AuthService - Token generated successfully!
+[INFO ] 11-04-2024 03:02:18.522 pm [http-nio-9093-exec-3] com.security.service.AuthService - Token generated successfully!
+[INFO ] 11-04-2024 03:03:06.503 pm [http-nio-9093-exec-4] com.security.service.AuthService - Token generated successfully!
+[INFO ] 11-04-2024 03:03:58.938 pm [http-nio-9093-exec-5] com.security.service.AuthService - Token generated successfully!
+[INFO ] 11-04-2024 03:05:07.531 pm [http-nio-9093-exec-1] com.security.service.AuthService - Token generated successfully!
+[INFO ] 11-04-2024 03:30:19.138 pm [http-nio-9093-exec-5] com.security.service.AuthService - Token generated successfully!
+[INFO ] 11-04-2024 05:21:03.523 pm [http-nio-9093-exec-7] com.security.service.AuthService - Token generated successfully!
+[INFO ] 11-04-2024 08:47:45.362 pm [http-nio-9093-exec-1] com.security.service.AuthService - Token generated successfully!
+[INFO ] 11-04-2024 08:48:30.886 pm [http-nio-9093-exec-2] com.security.service.AuthService - Token generated successfully!
+[INFO ] 11-04-2024 11:09:05.775 pm [http-nio-9093-exec-5] com.security.service.AuthService - Token generated successfully!
+[INFO ] 12-04-2024 08:52:43.128 am [http-nio-9093-exec-7] com.security.service.AuthService - Token generated successfully!
+[INFO ] 12-04-2024 09:32:18.995 am [http-nio-9093-exec-1] com.security.service.AuthService - Token generated successfully!
+[INFO ] 12-04-2024 10:31:54.812 am [http-nio-9093-exec-1] com.security.service.AuthService - Token generated successfully!
+[INFO ] 12-04-2024 10:32:20.525 am [http-nio-9093-exec-2] com.security.service.AuthService - Token generated successfully!
+[INFO ] 12-04-2024 10:33:10.085 am [http-nio-9093-exec-3] com.security.service.AuthService - Token generated successfully!
+[INFO ] 12-04-2024 10:34:00.795 am [http-nio-9093-exec-3] com.security.service.AuthService - Token generated successfully!
+[INFO ] 12-04-2024 10:35:17.050 am [http-nio-9093-exec-1] com.security.service.AuthService - Token generated successfully!
+[INFO ] 12-04-2024 10:35:19.621 am [http-nio-9093-exec-4] com.security.service.AuthService - Token generated successfully!
+[INFO ] 12-04-2024 10:35:31.238 am [http-nio-9093-exec-2] com.security.service.AuthService - Token generated successfully!
+[INFO ] 12-04-2024 10:35:44.041 am [http-nio-9093-exec-5] com.security.service.AuthService - Token generated successfully!
+[INFO ] 12-04-2024 10:59:56.632 am [http-nio-9093-exec-7] com.security.service.AuthService - Token generated successfully!
+[INFO ] 12-04-2024 11:01:13.589 am [http-nio-9093-exec-9] com.security.service.AuthService - Customer credentials added successfully!
+[INFO ] 12-04-2024 11:07:38.820 am [http-nio-9093-exec-1] com.security.service.AuthService - Token generated successfully!
+[INFO ] 12-04-2024 11:35:09.693 am [http-nio-9093-exec-2] com.security.service.AuthService - Token generated successfully!
+[INFO ] 12-04-2024 11:35:28.730 am [http-nio-9093-exec-3] com.security.service.AuthService - Token generated successfully!
+[INFO ] 12-04-2024 02:27:46.889 pm [http-nio-9093-exec-7] com.security.service.AuthService - Token generated successfully!
+[INFO ] 12-04-2024 03:00:52.391 pm [http-nio-9093-exec-4] com.security.service.AuthService - Token generated successfully!
+[INFO ] 12-04-2024 03:40:34.548 pm [http-nio-9093-exec-8] com.security.service.AuthService - Token generated successfully!
+[INFO ] 12-04-2024 03:43:02.051 pm [http-nio-9093-exec-2] com.security.service.AuthService - Token generated successfully!
+[INFO ] 12-04-2024 05:01:08.069 pm [http-nio-9093-exec-3] com.security.service.AuthService - Token generated successfully!
+[INFO ] 12-04-2024 05:01:30.445 pm [http-nio-9093-exec-4] com.security.service.AuthService - Token generated successfully!
+[INFO ] 12-04-2024 05:05:05.339 pm [http-nio-9093-exec-8] com.security.service.AuthService - Token generated successfully!
+[INFO ] 12-04-2024 05:43:26.217 pm [http-nio-9093-exec-2] com.security.service.AuthService - Token generated successfully!
+[INFO ] 12-04-2024 06:13:37.332 pm [http-nio-9093-exec-6] com.security.service.AuthService - Token generated successfully!
+[INFO ] 12-04-2024 06:19:19.718 pm [http-nio-9093-exec-10] com.security.service.AuthService - Token generated successfully!
+[INFO ] 12-04-2024 06:20:50.323 pm [http-nio-9093-exec-4] com.security.service.AuthService - Token generated successfully!
+[INFO ] 12-04-2024 07:23:00.711 pm [http-nio-9093-exec-1] com.security.service.AuthService - Token generated successfully!
+[INFO ] 12-04-2024 07:33:54.233 pm [http-nio-9093-exec-3] com.security.service.AuthService - Token generated successfully!
+[INFO ] 12-04-2024 07:34:37.107 pm [http-nio-9093-exec-4] com.security.service.AuthService - Token generated successfully!
+[INFO ] 12-04-2024 07:35:25.532 pm [http-nio-9093-exec-1] com.security.service.AuthService - Token generated successfully!
+[INFO ] 12-04-2024 07:35:27.261 pm [http-nio-9093-exec-2] com.security.service.AuthService - Token generated successfully!
+[INFO ] 12-04-2024 07:35:28.503 pm [http-nio-9093-exec-3] com.security.service.AuthService - Token generated successfully!
+[INFO ] 12-04-2024 07:35:30.307 pm [http-nio-9093-exec-4] com.security.service.AuthService - Token generated successfully!
+[INFO ] 12-04-2024 07:35:31.516 pm [http-nio-9093-exec-5] com.security.service.AuthService - Token generated successfully!
+[INFO ] 12-04-2024 07:35:32.714 pm [http-nio-9093-exec-6] com.security.service.AuthService - Token generated successfully!
+[INFO ] 12-04-2024 07:35:33.806 pm [http-nio-9093-exec-7] com.security.service.AuthService - Token generated successfully!
+[INFO ] 12-04-2024 07:35:35.001 pm [http-nio-9093-exec-8] com.security.service.AuthService - Token generated successfully!
+[INFO ] 12-04-2024 07:35:36.192 pm [http-nio-9093-exec-9] com.security.service.AuthService - Token generated successfully!
+[INFO ] 12-04-2024 07:36:40.551 pm [http-nio-9093-exec-1] com.security.service.AuthService - Token generated successfully!
+[INFO ] 12-04-2024 07:39:34.486 pm [http-nio-9093-exec-1] com.security.service.AuthService - Token generated successfully!
+[INFO ] 12-04-2024 08:00:09.680 pm [http-nio-9093-exec-3] com.security.service.AuthService - Token generated successfully!
+[INFO ] 12-04-2024 08:02:11.339 pm [http-nio-9093-exec-5] com.security.service.AuthService - Token generated successfully!
+[INFO ] 12-04-2024 08:07:07.298 pm [http-nio-9093-exec-7] com.security.service.AuthService - Token generated successfully!
+[INFO ] 12-04-2024 08:12:29.567 pm [http-nio-9093-exec-9] com.security.service.AuthService - Token generated successfully!
+[INFO ] 12-04-2024 08:18:28.548 pm [http-nio-9093-exec-2] com.security.service.AuthService - Customer credentials added successfully!
+[INFO ] 12-04-2024 08:19:15.912 pm [http-nio-9093-exec-4] com.security.service.AuthService - Token generated successfully!
+[INFO ] 12-04-2024 08:32:46.675 pm [http-nio-9093-exec-6] com.security.service.AuthService - Token generated successfully!
+[INFO ] 12-04-2024 09:25:53.805 pm [http-nio-9093-exec-8] com.security.service.AuthService - Token generated successfully!
+[INFO ] 12-04-2024 09:40:15.513 pm [http-nio-9093-exec-10] com.security.service.AuthService - Token generated successfully!
+[INFO ] 12-04-2024 10:34:59.929 pm [http-nio-9093-exec-2] com.security.service.AuthService - Token generated successfully!
+[INFO ] 12-04-2024 10:35:33.344 pm [http-nio-9093-exec-3] com.security.service.AuthService - Token generated successfully!
+[INFO ] 13-04-2024 08:48:12.073 am [http-nio-9093-exec-7] com.security.service.AuthService - Token generated successfully!
+[INFO ] 13-04-2024 10:07:36.070 am [http-nio-9093-exec-5] com.security.service.AuthService - Customer credentials added successfully!
+[INFO ] 13-04-2024 10:08:33.515 am [http-nio-9093-exec-9] com.security.service.AuthService - Token generated successfully!
+[INFO ] 13-04-2024 10:18:37.515 am [http-nio-9093-exec-3] com.security.service.AuthService - Token generated successfully!
+[INFO ] 13-04-2024 10:20:05.630 am [http-nio-9093-exec-7] com.security.service.AuthService - Token generated successfully!
+[INFO ] 13-04-2024 11:44:24.115 am [http-nio-9093-exec-1] com.security.service.AuthService - Token generated successfully!
+[INFO ] 13-04-2024 12:22:15.502 pm [http-nio-9093-exec-1] com.security.service.AuthService - Token generated successfully!
+[INFO ] 13-04-2024 03:41:43.879 pm [http-nio-9093-exec-5] com.security.service.AuthService - Token generated successfully!
+[INFO ] 13-04-2024 04:03:28.113 pm [http-nio-9093-exec-9] com.security.service.AuthService - Token generated successfully!
+[INFO ] 13-04-2024 04:30:41.812 pm [http-nio-9093-exec-3] com.security.service.AuthService - Token generated successfully!
+[INFO ] 13-04-2024 05:37:00.607 pm [http-nio-9093-exec-7] com.security.service.AuthService - Token generated successfully!
+[INFO ] 13-04-2024 06:18:56.498 pm [http-nio-9093-exec-1] com.security.service.AuthService - Token generated successfully!
+[INFO ] 13-04-2024 06:27:25.456 pm [http-nio-9093-exec-5] com.security.service.AuthService - Driver credentials added successfully!
+[INFO ] 13-04-2024 07:09:57.940 pm [http-nio-9093-exec-9] com.security.service.AuthService - Token generated successfully!
+[INFO ] 13-04-2024 07:43:27.289 pm [http-nio-9093-exec-3] com.security.service.AuthService - Token generated successfully!
+[INFO ] 13-04-2024 08:19:39.908 pm [http-nio-9093-exec-7] com.security.service.AuthService - Token generated successfully!
+[INFO ] 13-04-2024 09:39:04.639 pm [http-nio-9093-exec-1] com.security.service.AuthService - Token generated successfully!
+[INFO ] 13-04-2024 10:32:48.207 pm [http-nio-9093-exec-2] com.security.service.AuthService - Token generated successfully!
+[INFO ] 13-04-2024 10:34:23.599 pm [http-nio-9093-exec-6] com.security.service.AuthService - Token generated successfully!
+[INFO ] 13-04-2024 10:35:15.497 pm [http-nio-9093-exec-7] com.security.service.AuthService - Token generated successfully!
+[INFO ] 13-04-2024 10:49:27.540 pm [http-nio-9093-exec-1] com.security.service.AuthService - Token generated successfully!
+[INFO ] 13-04-2024 11:03:31.438 pm [http-nio-9093-exec-5] com.security.service.AuthService - Token generated successfully!
+[INFO ] 13-04-2024 11:15:48.160 pm [http-nio-9093-exec-9] com.security.service.AuthService - Driver Credentials deleted!
+[INFO ] 13-04-2024 11:17:29.762 pm [http-nio-9093-exec-3] com.security.service.AuthService - Driver credentials added successfully!
+[INFO ] 13-04-2024 11:17:41.605 pm [http-nio-9093-exec-6] com.security.service.AuthService - Driver Credentials deleted!
+[INFO ] 13-04-2024 11:25:59.450 pm [http-nio-9093-exec-10] com.security.service.AuthService - Token generated successfully!
+[INFO ] 13-04-2024 11:39:31.157 pm [http-nio-9093-exec-4] com.security.service.AuthService - Token generated successfully!
+[INFO ] 13-04-2024 11:40:41.434 pm [http-nio-9093-exec-8] com.security.service.AuthService - Driver credentials added successfully!
+[INFO ] 13-04-2024 11:41:01.204 pm [http-nio-9093-exec-9] com.security.service.AuthService - Driver Credentials deleted!
+[INFO ] 14-04-2024 08:02:02.656 am [http-nio-9093-exec-1] com.security.service.AuthService - Token generated successfully!
+[INFO ] 14-04-2024 08:02:47.800 am [http-nio-9093-exec-2] com.security.service.AuthService - Driver Credentials deleted!
+[INFO ] 14-04-2024 08:25:43.261 am [http-nio-9093-exec-5] com.security.service.AuthService - Token generated successfully!
+[INFO ] 14-04-2024 08:27:32.043 am [http-nio-9093-exec-10] com.security.service.AuthService - Token generated successfully!
+[INFO ] 14-04-2024 08:36:06.335 am [http-nio-9093-exec-4] com.security.service.AuthService - Token generated successfully!
+[INFO ] 14-04-2024 08:42:13.392 am [http-nio-9093-exec-7] com.security.service.AuthService - Token generated successfully!
+[INFO ] 14-04-2024 08:48:27.016 am [http-nio-9093-exec-2] com.security.service.AuthService - Token generated successfully!
+[INFO ] 14-04-2024 09:11:24.204 am [http-nio-9093-exec-5] com.security.service.AuthService - Token generated successfully!
+[INFO ] 14-04-2024 09:13:45.055 am [http-nio-9093-exec-10] com.security.service.AuthService - Token generated successfully!
+[INFO ] 14-04-2024 09:50:36.250 am [http-nio-9093-exec-4] com.security.service.AuthService - Token generated successfully!
+[INFO ] 14-04-2024 09:56:30.950 am [http-nio-9093-exec-7] com.security.service.AuthService - Token generated successfully!
+[INFO ] 14-04-2024 10:17:39.545 am [http-nio-9093-exec-2] com.security.service.AuthService - Updating user's username
+[INFO ] 14-04-2024 10:22:05.636 am [http-nio-9093-exec-5] com.security.service.AuthService - Updating user's username
+[INFO ] 14-04-2024 11:03:23.348 am [http-nio-9093-exec-10] com.security.service.AuthService - Token generated successfully!
+[INFO ] 14-04-2024 11:55:45.603 am [http-nio-9093-exec-7] com.security.service.AuthService - Token generated successfully!
+[INFO ] 14-04-2024 11:59:31.722 am [http-nio-9093-exec-2] com.security.service.AuthService - Token generated successfully!
+[INFO ] 14-04-2024 12:25:38.856 pm [http-nio-9093-exec-5] com.security.service.AuthService - Updating driver's username
+[INFO ] 14-04-2024 12:55:02.073 pm [http-nio-9093-exec-10] com.security.service.AuthService - Token generated successfully!
+[INFO ] 14-04-2024 02:55:44.533 pm [http-nio-9093-exec-2] com.security.service.AuthService - Token generated successfully!
+[INFO ] 14-04-2024 02:56:18.501 pm [http-nio-9093-exec-6] com.security.service.AuthService - Token generated successfully!
+[INFO ] 14-04-2024 02:57:11.244 pm [http-nio-9093-exec-5] com.security.service.AuthService - Token generated successfully!
+[INFO ] 14-04-2024 03:01:08.837 pm [http-nio-9093-exec-10] com.security.service.AuthService - Token generated successfully!
+[INFO ] 14-04-2024 03:08:54.825 pm [http-nio-9093-exec-4] com.security.service.AuthService - Token generated successfully!
+[INFO ] 14-04-2024 03:10:40.712 pm [http-nio-9093-exec-7] com.security.service.AuthService - Token generated successfully!
+[INFO ] 14-04-2024 03:15:42.397 pm [http-nio-9093-exec-2] com.security.service.AuthService - Token generated successfully!
+[INFO ] 14-04-2024 03:16:32.685 pm [http-nio-9093-exec-6] com.security.service.AuthService - Token generated successfully!
+[INFO ] 14-04-2024 04:41:25.572 pm [http-nio-9093-exec-9] com.security.service.AuthService - Token generated successfully!
+[INFO ] 14-04-2024 04:47:29.495 pm [http-nio-9093-exec-4] com.security.service.AuthService - Token generated successfully!
+[INFO ] 14-04-2024 06:37:23.429 pm [http-nio-9093-exec-7] com.security.service.AuthService - Token generated successfully!
+[INFO ] 14-04-2024 06:56:19.784 pm [http-nio-9093-exec-2] com.security.service.AuthService - Token generated successfully!
+[INFO ] 14-04-2024 07:10:15.708 pm [http-nio-9093-exec-5] com.security.service.AuthService - Token generated successfully!
+[INFO ] 14-04-2024 07:18:01.460 pm [http-nio-9093-exec-10] com.security.service.AuthService - Token generated successfully!
+[INFO ] 14-04-2024 07:33:32.394 pm [http-nio-9093-exec-7] com.security.service.AuthService - Customer credentials added successfully!
+[INFO ] 14-04-2024 07:33:39.930 pm [http-nio-9093-exec-1] com.security.service.AuthService - Token generated successfully!
+[INFO ] 14-04-2024 07:34:37.122 pm [http-nio-9093-exec-2] com.security.service.AuthService - User Credentials deleted!
+[INFO ] 14-04-2024 07:35:39.928 pm [http-nio-9093-exec-9] com.security.service.AuthService - Token generated successfully!
+[INFO ] 14-04-2024 07:37:39.978 pm [http-nio-9093-exec-3] com.security.service.AuthService - Token generated successfully!
+[INFO ] 14-04-2024 07:38:06.144 pm [http-nio-9093-exec-4] com.security.service.AuthService - Token generated successfully!
+[INFO ] 14-04-2024 07:44:36.008 pm [http-nio-9093-exec-7] com.security.service.AuthService - Token generated successfully!
+[INFO ] 14-04-2024 07:45:53.456 pm [http-nio-9093-exec-2] com.security.service.AuthService - Token generated successfully!
+[INFO ] 14-04-2024 07:46:58.682 pm [http-nio-9093-exec-5] com.security.service.AuthService - Token generated successfully!
+[INFO ] 14-04-2024 07:48:17.677 pm [http-nio-9093-exec-3] com.security.service.AuthService - Token generated successfully!
+[INFO ] 14-04-2024 08:15:29.066 pm [http-nio-9093-exec-8] com.security.service.AuthService - Token generated successfully!
+[INFO ] 14-04-2024 08:25:30.949 pm [http-nio-9093-exec-1] com.security.service.AuthService - Token generated successfully!
+[INFO ] 14-04-2024 08:28:45.138 pm [http-nio-9093-exec-6] com.security.service.AuthService - Token generated successfully!
+[INFO ] 14-04-2024 08:40:45.886 pm [http-nio-9093-exec-10] com.security.service.AuthService - Token generated successfully!
+[INFO ] 14-04-2024 08:47:03.108 pm [http-nio-9093-exec-4] com.security.service.AuthService - Token generated successfully!
+[INFO ] 14-04-2024 08:47:53.073 pm [http-nio-9093-exec-7] com.security.service.AuthService - Token generated successfully!
+[INFO ] 14-04-2024 08:48:41.287 pm [http-nio-9093-exec-1] com.security.service.AuthService - User Credentials deleted!
+[INFO ] 14-04-2024 08:52:56.086 pm [http-nio-9093-exec-5] com.security.service.AuthService - Customer credentials added successfully!
+[INFO ] 14-04-2024 08:53:05.049 pm [http-nio-9093-exec-9] com.security.service.AuthService - Token generated successfully!
+[INFO ] 14-04-2024 08:53:14.054 pm [http-nio-9093-exec-10] com.security.service.AuthService - User Credentials deleted!
+[INFO ] 14-04-2024 08:53:55.402 pm [http-nio-9093-exec-3] com.security.service.AuthService - Token generated successfully!
+[INFO ] 14-04-2024 09:36:03.858 pm [http-nio-9093-exec-7] com.security.service.AuthService - Customer credentials added successfully!
+[INFO ] 14-04-2024 09:36:45.386 pm [http-nio-9093-exec-2] com.security.service.AuthService - Token generated successfully!
+[INFO ] 14-04-2024 09:58:28.972 pm [http-nio-9093-exec-9] com.security.service.AuthService - Customer credentials added successfully!
+[INFO ] 14-04-2024 09:58:37.705 pm [http-nio-9093-exec-10] com.security.service.AuthService - Token generated successfully!
+[INFO ] 14-04-2024 10:00:12.938 pm [http-nio-9093-exec-2] com.security.service.AuthService - Token generated successfully!
+[INFO ] 14-04-2024 10:01:31.493 pm [http-nio-9093-exec-5] com.security.service.AuthService - Token generated successfully!
+[INFO ] 14-04-2024 10:01:58.983 pm [http-nio-9093-exec-9] com.security.service.AuthService - Token generated successfully!
+[INFO ] 14-04-2024 10:06:31.513 pm [http-nio-9093-exec-3] com.security.service.AuthService - User Credentials deleted!
+[INFO ] 14-04-2024 10:08:20.128 pm [http-nio-9093-exec-8] com.security.service.AuthService - Customer credentials added successfully!
+[INFO ] 14-04-2024 10:08:32.416 pm [http-nio-9093-exec-7] com.security.service.AuthService - Token generated successfully!
+[INFO ] 14-04-2024 10:09:16.011 pm [http-nio-9093-exec-1] com.security.service.AuthService - Token generated successfully!
+[INFO ] 14-04-2024 10:10:30.801 pm [http-nio-9093-exec-6] com.security.service.AuthService - Token generated successfully!
+[INFO ] 14-04-2024 10:11:07.472 pm [http-nio-9093-exec-10] com.security.service.AuthService - Token generated successfully!
+[INFO ] 14-04-2024 10:13:21.861 pm [http-nio-9093-exec-4] com.security.service.AuthService - Token generated successfully!
+[INFO ] 14-04-2024 10:16:54.115 pm [http-nio-9093-exec-7] com.security.service.AuthService - Token generated successfully!
+[INFO ] 14-04-2024 10:41:16.195 pm [http-nio-9093-exec-2] com.security.service.AuthService - Token generated successfully!
+[INFO ] 14-04-2024 10:43:17.439 pm [http-nio-9093-exec-5] com.security.service.AuthService - Updating user's username
+[INFO ] 14-04-2024 10:44:19.320 pm [http-nio-9093-exec-10] com.security.service.AuthService - Token generated successfully!
+[INFO ] 14-04-2024 11:01:08.932 pm [http-nio-9093-exec-4] com.security.service.AuthService - Token generated successfully!
+[INFO ] 14-04-2024 11:01:38.923 pm [http-nio-9093-exec-8] com.security.service.AuthService - Token generated successfully!
+[INFO ] 15-04-2024 11:07:32.020 am [http-nio-9093-exec-1] com.security.service.AuthService - Token generated successfully!
+[INFO ] 15-04-2024 11:07:53.977 am [http-nio-9093-exec-2] com.security.service.AuthService - Token generated successfully!
+[INFO ] 15-04-2024 11:08:24.112 am [http-nio-9093-exec-3] com.security.service.AuthService - Token generated successfully!
+[INFO ] 15-04-2024 11:17:29.635 am [http-nio-9093-exec-5] com.security.service.AuthService - Token generated successfully!
+[INFO ] 15-04-2024 11:17:41.990 am [http-nio-9093-exec-6] com.security.service.AuthService - Token generated successfully!
+[INFO ] 15-04-2024 11:34:29.720 am [http-nio-9093-exec-8] com.security.service.AuthService - Token generated successfully!
+[INFO ] 15-04-2024 11:36:01.500 am [http-nio-9093-exec-10] com.security.service.AuthService - Token generated successfully!
+[INFO ] 15-04-2024 11:40:32.062 am [http-nio-9093-exec-2] com.security.service.AuthService - Token generated successfully!
+[INFO ] 15-04-2024 11:51:28.626 am [http-nio-9093-exec-4] com.security.service.AuthService - Customer credentials added successfully!
+[INFO ] 15-04-2024 11:51:37.478 am [http-nio-9093-exec-5] com.security.service.AuthService - Token generated successfully!
+[INFO ] 15-04-2024 11:51:37.511 am [http-nio-9093-exec-6] com.security.service.AuthService - Token generated successfully!
+[INFO ] 15-04-2024 11:52:59.873 am [http-nio-9093-exec-3] com.security.service.AuthService - Token generated successfully!
+[INFO ] 15-04-2024 11:58:58.219 am [http-nio-9093-exec-5] com.security.service.AuthService - Token generated successfully!
+[INFO ] 15-04-2024 11:59:31.948 am [http-nio-9093-exec-6] com.security.service.AuthService - Token generated successfully!
+[INFO ] 15-04-2024 12:00:25.785 pm [http-nio-9093-exec-8] com.security.service.AuthService - Token generated successfully!
+[INFO ] 15-04-2024 12:04:57.207 pm [http-nio-9093-exec-10] com.security.service.AuthService - Token generated successfully!
+[INFO ] 15-04-2024 12:05:28.513 pm [http-nio-9093-exec-1] com.security.service.AuthService - Token generated successfully!
+[INFO ] 15-04-2024 12:06:13.539 pm [http-nio-9093-exec-2] com.security.service.AuthService - Token generated successfully!
+[INFO ] 15-04-2024 12:06:59.820 pm [http-nio-9093-exec-4] com.security.service.AuthService - Token generated successfully!
+[INFO ] 15-04-2024 12:07:39.824 pm [http-nio-9093-exec-5] com.security.service.AuthService - Token generated successfully!
+[INFO ] 15-04-2024 12:42:08.916 pm [http-nio-9093-exec-8] com.security.service.AuthService - Token generated successfully!
+[INFO ] 15-04-2024 12:44:00.416 pm [http-nio-9093-exec-10] com.security.service.AuthService - Token generated successfully!
+[INFO ] 15-04-2024 12:45:16.289 pm [http-nio-9093-exec-2] com.security.service.AuthService - Token generated successfully!
+[INFO ] 15-04-2024 01:50:52.355 pm [http-nio-9093-exec-4] com.security.service.AuthService - Token generated successfully!
+[INFO ] 15-04-2024 01:56:57.472 pm [http-nio-9093-exec-8] com.security.service.AuthService - Token generated successfully!
+[INFO ] 15-04-2024 01:58:06.741 pm [http-nio-9093-exec-10] com.security.service.AuthService - Updating user's username
+[INFO ] 15-04-2024 01:59:26.409 pm [http-nio-9093-exec-2] com.security.service.AuthService - Token generated successfully!
+[INFO ] 15-04-2024 02:18:33.136 pm [http-nio-9093-exec-4] com.security.service.AuthService - Token generated successfully!
+[INFO ] 15-04-2024 02:54:06.166 pm [http-nio-9093-exec-6] com.security.service.AuthService - Token generated successfully!
+[INFO ] 15-04-2024 03:34:47.411 pm [http-nio-9093-exec-1] com.security.service.AuthService - Token generated successfully!
+[INFO ] 15-04-2024 03:35:26.338 pm [http-nio-9093-exec-2] com.security.service.AuthService - Token generated successfully!
+[INFO ] 15-04-2024 03:36:02.110 pm [http-nio-9093-exec-5] com.security.service.AuthService - Token generated successfully!
+[INFO ] 15-04-2024 06:20:07.455 pm [http-nio-9093-exec-1] com.security.service.AuthService - Token generated successfully!
+[INFO ] 15-04-2024 06:38:55.310 pm [http-nio-9093-exec-5] com.security.service.AuthService - Token generated successfully!
+[INFO ] 27-05-2025 08:51:32.871 am [http-nio-9093-exec-3] com.security.service.AuthService - Customer credentials added successfully!

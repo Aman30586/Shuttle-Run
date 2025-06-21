@@ -1,0 +1,557 @@
+[ERROR] 05-04-2024 04:42:42.249 pm [http-nio-9090-exec-3] com.user.dao.UserDao - User with id 103 is Not Found!!
+[INFO ] 05-04-2024 06:49:39.143 pm [http-nio-9090-exec-5] com.user.dao.UserDao - User added successfully!!
+[INFO ] 05-04-2024 07:16:41.533 pm [http-nio-9090-exec-7] com.user.dao.UserDao - User added successfully!!
+[INFO ] 05-04-2024 10:50:55.598 pm [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 05-04-2024 10:54:01.389 pm [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 05-04-2024 11:01:35.552 pm [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 05-04-2024 11:01:37.330 pm [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 05-04-2024 11:02:06.465 pm [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 05-04-2024 11:06:29.498 pm [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 05-04-2024 11:07:35.240 pm [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 05-04-2024 11:11:12.389 pm [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 05-04-2024 11:11:49.184 pm [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 05-04-2024 11:13:54.733 pm [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 05-04-2024 11:15:26.314 pm [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 05-04-2024 11:17:39.524 pm [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 05-04-2024 11:17:50.591 pm [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 06-04-2024 12:04:49.912 am [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 06-04-2024 12:05:17.089 am [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 06-04-2024 12:07:07.755 am [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 06-04-2024 12:49:28.397 am [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 06-04-2024 12:50:48.260 am [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 06-04-2024 12:55:44.726 am [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 06-04-2024 12:57:27.359 am [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 06-04-2024 12:58:17.220 am [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 06-04-2024 01:00:25.411 am [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 06-04-2024 01:02:10.057 am [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 06-04-2024 01:03:00.120 am [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 06-04-2024 01:04:54.902 am [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 06-04-2024 01:07:03.235 am [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 06-04-2024 01:10:36.826 am [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 06-04-2024 01:14:25.674 am [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 06-04-2024 01:15:21.265 am [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 06-04-2024 01:16:17.186 am [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 06-04-2024 01:24:09.073 am [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 06-04-2024 01:24:39.094 am [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 06-04-2024 01:32:32.921 am [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 06-04-2024 01:32:33.039 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[INFO ] 06-04-2024 01:33:19.780 am [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 06-04-2024 01:33:19.903 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[INFO ] 06-04-2024 01:34:22.787 am [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 06-04-2024 01:34:22.901 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[INFO ] 06-04-2024 01:34:44.802 am [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 06-04-2024 01:34:44.974 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[INFO ] 06-04-2024 01:37:15.769 am [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 06-04-2024 01:37:15.894 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 01:37:16.019 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[INFO ] 06-04-2024 07:25:01.066 am [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 06-04-2024 07:25:01.186 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 07:25:01.352 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[INFO ] 06-04-2024 07:25:46.877 am [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 06-04-2024 07:25:46.985 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 07:25:47.116 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[INFO ] 06-04-2024 07:29:27.762 am [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 06-04-2024 07:29:27.858 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 07:29:27.950 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 07:29:27.996 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 07:31:22.488 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[INFO ] 06-04-2024 07:31:22.508 am [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 06-04-2024 07:31:22.598 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 07:31:22.682 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 07:31:22.721 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 08:06:21.068 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[INFO ] 06-04-2024 08:06:21.091 am [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 06-04-2024 08:06:21.180 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 08:06:21.264 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 08:06:21.301 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 08:08:19.361 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[INFO ] 06-04-2024 08:08:19.385 am [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 06-04-2024 08:08:19.476 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 08:08:19.578 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 08:08:19.620 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 08:14:44.039 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[INFO ] 06-04-2024 08:14:44.055 am [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 06-04-2024 08:14:44.142 am [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 06-04-2024 08:14:44.165 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 08:14:44.247 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 08:14:44.288 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 08:20:41.073 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[INFO ] 06-04-2024 08:20:41.092 am [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 06-04-2024 08:20:41.180 am [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 06-04-2024 08:20:41.207 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 08:20:41.339 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 08:20:41.383 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 08:22:08.941 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[INFO ] 06-04-2024 08:22:08.962 am [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 06-04-2024 08:22:09.055 am [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 06-04-2024 08:22:09.083 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 08:22:09.175 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 08:22:09.219 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 08:23:36.801 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[INFO ] 06-04-2024 08:23:36.818 am [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 06-04-2024 08:23:36.920 am [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 06-04-2024 08:23:36.944 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 08:23:37.026 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 08:23:37.067 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 08:24:36.518 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[INFO ] 06-04-2024 08:24:36.542 am [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 06-04-2024 08:24:36.662 am [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 06-04-2024 08:24:36.688 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 08:24:36.782 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 08:24:36.826 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 08:25:30.203 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[INFO ] 06-04-2024 08:25:30.220 am [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 06-04-2024 08:25:30.328 am [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 06-04-2024 08:25:30.361 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 08:25:30.479 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 08:25:30.522 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 08:36:07.828 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[INFO ] 06-04-2024 08:36:07.853 am [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 06-04-2024 08:36:07.985 am [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 06-04-2024 08:36:08.018 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 08:36:08.145 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 08:36:08.200 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 08:38:45.478 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[INFO ] 06-04-2024 08:38:45.528 am [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 06-04-2024 08:38:45.685 am [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 06-04-2024 08:38:45.732 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 08:38:45.866 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 08:38:45.946 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 08:57:48.727 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[INFO ] 06-04-2024 08:57:48.750 am [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 06-04-2024 08:57:48.874 am [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 06-04-2024 08:57:48.900 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 08:57:48.987 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 08:57:49.031 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 09:05:26.968 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[INFO ] 06-04-2024 09:05:26.989 am [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 06-04-2024 09:05:27.114 am [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 06-04-2024 09:05:27.146 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 09:05:27.246 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 09:05:27.298 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 09:19:16.464 am [http-nio-9090-exec-1] com.user.dao.UserDao - User with id 1001 is Not Found!!
+[INFO ] 06-04-2024 09:25:32.710 am [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 06-04-2024 09:25:32.854 am [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 06-04-2024 09:25:32.882 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 09:25:32.911 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 09:25:33.008 am [main] com.user.dao.UserDao - User with id 1002 is Not Found!!
+[ERROR] 06-04-2024 09:25:33.050 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 09:25:33.068 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 09:25:33.082 am [main] com.user.dao.UserDao - User with id 1002 is Not Found!!
+[INFO ] 06-04-2024 09:28:29.721 am [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 06-04-2024 09:28:29.883 am [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 06-04-2024 09:28:29.935 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 09:28:29.975 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 09:28:30.141 am [main] com.user.dao.UserDao - User with id 1002 is Not Found!!
+[ERROR] 06-04-2024 09:28:30.188 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 09:28:30.208 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 09:28:30.228 am [main] com.user.dao.UserDao - User with id 1002 is Not Found!!
+[INFO ] 06-04-2024 09:48:56.590 am [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 06-04-2024 09:48:56.828 am [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 06-04-2024 09:48:56.876 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 09:48:56.921 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 09:48:57.101 am [main] com.user.dao.UserDao - User with id 1002 is Not Found!!
+[ERROR] 06-04-2024 09:48:57.171 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 09:48:57.197 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 09:48:57.221 am [main] com.user.dao.UserDao - User with id 1002 is Not Found!!
+[INFO ] 06-04-2024 09:53:39.164 am [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 06-04-2024 09:53:39.287 am [main] com.user.dao.UserDao - User with id 1003 is Not Found!!
+[INFO ] 06-04-2024 09:53:39.312 am [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 06-04-2024 09:53:39.343 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 09:53:39.375 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 09:53:39.486 am [main] com.user.dao.UserDao - User with id 1002 is Not Found!!
+[ERROR] 06-04-2024 09:53:39.514 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 09:53:39.530 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[INFO ] 06-04-2024 09:53:39.540 am [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 06-04-2024 09:55:46.822 am [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 06-04-2024 09:55:46.995 am [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 06-04-2024 09:55:47.038 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 09:55:47.084 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 09:55:47.254 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 09:55:47.269 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[INFO ] 06-04-2024 09:55:47.281 am [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 06-04-2024 10:01:11.141 am [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 06-04-2024 10:01:11.302 am [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 06-04-2024 10:01:11.338 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 10:01:11.370 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 10:01:11.500 am [main] com.user.dao.UserDao - User with id 1005 is Not Found!!
+[ERROR] 06-04-2024 10:01:11.523 am [main] com.user.dao.UserDao - User with id 1003 is Not Found!!
+[ERROR] 06-04-2024 10:01:11.559 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 10:01:11.576 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[INFO ] 06-04-2024 10:01:11.586 am [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 06-04-2024 10:02:24.880 am [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 06-04-2024 10:02:25.011 am [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 06-04-2024 10:02:25.042 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 10:02:25.071 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 10:02:25.205 am [main] com.user.dao.UserDao - User with id 1003 is Not Found!!
+[ERROR] 06-04-2024 10:02:25.244 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 10:02:25.259 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[INFO ] 06-04-2024 10:02:25.268 am [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 06-04-2024 10:03:28.734 am [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 06-04-2024 10:03:28.932 am [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 06-04-2024 10:03:28.963 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 10:03:28.991 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 10:03:29.123 am [main] com.user.dao.UserDao - User with id 1003 is Not Found!!
+[ERROR] 06-04-2024 10:03:29.168 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 10:03:29.182 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[INFO ] 06-04-2024 10:03:29.191 am [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 06-04-2024 10:04:59.048 am [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 06-04-2024 10:04:59.183 am [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 06-04-2024 10:04:59.210 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 10:04:59.235 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 10:04:59.385 am [main] com.user.dao.UserDao - User with id 1003 is Not Found!!
+[ERROR] 06-04-2024 10:04:59.424 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 10:04:59.440 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[INFO ] 06-04-2024 10:04:59.449 am [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 06-04-2024 10:06:09.451 am [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 06-04-2024 10:06:09.603 am [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 06-04-2024 10:06:09.635 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 10:06:09.662 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 10:06:09.790 am [main] com.user.dao.UserDao - User with id 1003 is Not Found!!
+[ERROR] 06-04-2024 10:06:09.838 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 10:06:09.853 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[INFO ] 06-04-2024 10:06:09.862 am [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 06-04-2024 10:07:13.820 am [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 06-04-2024 10:07:13.967 am [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 06-04-2024 10:07:13.995 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 10:07:14.022 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 10:07:14.151 am [main] com.user.dao.UserDao - User with id 1002 is Not Found!!
+[ERROR] 06-04-2024 10:07:14.198 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 10:07:14.214 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[INFO ] 06-04-2024 10:07:14.226 am [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 06-04-2024 10:10:59.566 am [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 06-04-2024 10:10:59.718 am [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 06-04-2024 10:10:59.753 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 10:10:59.783 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 10:10:59.959 am [main] com.user.dao.UserDao - User with id 1003 is Not Found!!
+[ERROR] 06-04-2024 10:11:00.030 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 10:11:00.056 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[INFO ] 06-04-2024 10:11:00.069 am [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 06-04-2024 10:11:59.010 am [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 06-04-2024 10:11:59.161 am [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 06-04-2024 10:11:59.186 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 10:11:59.216 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 10:11:59.343 am [main] com.user.dao.UserDao - User with id 1003 is Not Found!!
+[ERROR] 06-04-2024 10:11:59.378 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 10:11:59.393 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[INFO ] 06-04-2024 10:11:59.403 am [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 06-04-2024 10:15:02.300 am [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 06-04-2024 10:15:02.436 am [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 06-04-2024 10:15:02.469 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 10:15:02.501 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 10:15:02.630 am [main] com.user.dao.UserDao - User with id 1003 is Not Found!!
+[ERROR] 06-04-2024 10:15:02.671 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 10:15:02.688 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[INFO ] 06-04-2024 10:15:02.700 am [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 06-04-2024 10:15:40.877 am [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 06-04-2024 10:15:41.007 am [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 06-04-2024 10:15:41.027 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 10:15:41.053 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 10:15:41.169 am [main] com.user.dao.UserDao - User with id 1003 is Not Found!!
+[ERROR] 06-04-2024 10:15:41.210 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 10:15:41.227 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[INFO ] 06-04-2024 10:15:41.236 am [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 06-04-2024 10:18:03.403 am [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 06-04-2024 10:18:03.536 am [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 06-04-2024 10:18:03.563 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 10:18:03.589 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 10:18:03.747 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 10:18:03.764 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[INFO ] 06-04-2024 10:18:03.774 am [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 06-04-2024 10:42:17.356 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 10:42:17.419 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 10:42:17.538 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 10:42:17.563 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[INFO ] 06-04-2024 10:42:17.577 am [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 06-04-2024 10:43:08.090 am [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 06-04-2024 10:43:08.237 am [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 06-04-2024 10:43:08.262 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 10:43:08.291 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 10:43:08.460 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 06-04-2024 10:43:08.485 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[INFO ] 06-04-2024 10:43:08.499 am [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 06-04-2024 12:51:37.270 pm [http-nio-9090-exec-1] com.user.dao.UserDao - User added successfully!!
+[INFO ] 06-04-2024 02:38:23.352 pm [http-nio-9090-exec-3] com.user.dao.UserDao - User added successfully!!
+[INFO ] 06-04-2024 02:41:45.674 pm [http-nio-9090-exec-5] com.user.dao.UserDao - User added successfully!!
+[INFO ] 06-04-2024 02:44:10.381 pm [http-nio-9090-exec-7] com.user.dao.UserDao - User added successfully!!
+[INFO ] 06-04-2024 02:44:46.016 pm [http-nio-9090-exec-8] com.user.dao.UserDao - User added successfully!!
+[INFO ] 06-04-2024 03:01:17.694 pm [http-nio-9090-exec-1] com.user.dao.UserDao - User added successfully!!
+[INFO ] 06-04-2024 03:02:25.154 pm [http-nio-9090-exec-3] com.user.dao.UserDao - User added successfully!!
+[ERROR] 06-04-2024 07:25:21.147 pm [http-nio-9090-exec-1] com.user.dao.UserDao - User with id 120 is Not Found!!
+[ERROR] 06-04-2024 07:37:25.767 pm [http-nio-9090-exec-3] com.user.dao.UserDao - User with id 120 is Not Found!!
+[INFO ] 07-04-2024 08:41:03.558 am [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 07-04-2024 08:41:03.759 am [main] com.user.dao.UserDao - User with id 1003 is Not Found!!
+[INFO ] 07-04-2024 08:41:03.786 am [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 07-04-2024 08:41:03.842 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 07-04-2024 08:41:03.885 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 07-04-2024 08:41:03.974 am [main] com.user.dao.UserDao - User with id 1002 is Not Found!!
+[ERROR] 07-04-2024 08:41:03.993 am [main] com.user.dao.UserDao - User with id 1003 is Not Found!!
+[ERROR] 07-04-2024 08:41:04.030 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 07-04-2024 08:41:04.048 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[INFO ] 07-04-2024 08:41:04.062 am [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 07-04-2024 08:41:04.095 am [main] com.user.dao.UserDao - User with id 1003 is Not Found!!
+[INFO ] 07-04-2024 08:42:46.586 am [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 07-04-2024 08:42:46.757 am [main] com.user.dao.UserDao - User with id 1003 is Not Found!!
+[INFO ] 07-04-2024 08:42:46.783 am [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 07-04-2024 08:42:46.832 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 07-04-2024 08:42:46.868 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 07-04-2024 08:42:46.966 am [main] com.user.dao.UserDao - User with id 1002 is Not Found!!
+[ERROR] 07-04-2024 08:42:46.986 am [main] com.user.dao.UserDao - User with id 1003 is Not Found!!
+[ERROR] 07-04-2024 08:42:47.024 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 07-04-2024 08:42:47.045 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[INFO ] 07-04-2024 08:42:47.060 am [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 07-04-2024 08:42:47.102 am [main] com.user.dao.UserDao - User with id 1003 is Not Found!!
+[INFO ] 07-04-2024 08:45:04.053 am [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 07-04-2024 08:45:04.217 am [main] com.user.dao.UserDao - User with id 1003 is Not Found!!
+[INFO ] 07-04-2024 08:45:04.242 am [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 07-04-2024 08:45:04.298 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 07-04-2024 08:45:04.336 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 07-04-2024 08:45:04.444 am [main] com.user.dao.UserDao - User with id 1002 is Not Found!!
+[ERROR] 07-04-2024 08:45:04.464 am [main] com.user.dao.UserDao - User with id 1003 is Not Found!!
+[ERROR] 07-04-2024 08:45:04.503 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 07-04-2024 08:45:04.523 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[INFO ] 07-04-2024 08:45:04.537 am [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 07-04-2024 08:45:04.573 am [main] com.user.dao.UserDao - User with id 1003 is Not Found!!
+[INFO ] 07-04-2024 08:47:54.747 am [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 07-04-2024 08:47:54.927 am [main] com.user.dao.UserDao - User with id 1003 is Not Found!!
+[INFO ] 07-04-2024 08:47:54.953 am [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 07-04-2024 08:47:55.000 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 07-04-2024 08:47:55.034 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 07-04-2024 08:47:55.134 am [main] com.user.dao.UserDao - User with id 1002 is Not Found!!
+[ERROR] 07-04-2024 08:47:55.153 am [main] com.user.dao.UserDao - User with id 1003 is Not Found!!
+[ERROR] 07-04-2024 08:47:55.192 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 07-04-2024 08:47:55.213 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[INFO ] 07-04-2024 08:47:55.230 am [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 07-04-2024 08:47:55.267 am [main] com.user.dao.UserDao - User with id 1003 is Not Found!!
+[INFO ] 07-04-2024 08:55:17.497 am [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 07-04-2024 08:55:17.612 am [main] com.user.dao.UserDao - User with id 1003 is Not Found!!
+[INFO ] 07-04-2024 08:55:17.631 am [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 07-04-2024 08:55:17.659 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 07-04-2024 08:55:17.686 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 07-04-2024 08:55:18.133 am [main] com.user.dao.UserDao - User with id 1003 is Not Found!!
+[ERROR] 07-04-2024 08:55:18.167 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 07-04-2024 08:55:18.182 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[INFO ] 07-04-2024 08:55:18.193 am [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 07-04-2024 09:26:18.677 am [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 07-04-2024 09:26:18.823 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 07-04-2024 09:26:18.866 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 07-04-2024 09:26:19.231 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[INFO ] 07-04-2024 09:26:19.245 am [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 07-04-2024 09:26:19.266 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[INFO ] 07-04-2024 09:26:19.275 am [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 07-04-2024 09:33:50.669 am [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 07-04-2024 09:33:50.891 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 07-04-2024 09:33:50.971 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 07-04-2024 09:33:51.518 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[INFO ] 07-04-2024 09:33:51.527 am [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 07-04-2024 09:33:51.573 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[INFO ] 07-04-2024 09:33:51.589 am [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 07-04-2024 09:46:04.089 am [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 07-04-2024 09:46:04.364 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 07-04-2024 09:46:04.416 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 07-04-2024 09:46:04.938 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[INFO ] 07-04-2024 09:46:04.949 am [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 07-04-2024 09:46:04.984 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[INFO ] 07-04-2024 09:46:04.993 am [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 07-04-2024 10:10:37.073 am [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 07-04-2024 10:10:37.318 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 07-04-2024 10:10:37.360 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 07-04-2024 10:10:37.811 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[INFO ] 07-04-2024 10:10:37.822 am [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 07-04-2024 10:10:37.855 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[INFO ] 07-04-2024 10:10:37.865 am [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 07-04-2024 10:12:09.825 am [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 07-04-2024 10:12:10.083 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 07-04-2024 10:12:10.127 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 07-04-2024 10:12:10.580 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[INFO ] 07-04-2024 10:12:10.593 am [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 07-04-2024 10:12:10.630 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[INFO ] 07-04-2024 10:12:10.639 am [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 07-04-2024 10:13:11.305 am [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 07-04-2024 10:13:11.561 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 07-04-2024 10:13:11.603 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 07-04-2024 10:13:12.074 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[INFO ] 07-04-2024 10:13:12.082 am [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 07-04-2024 10:13:12.112 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[INFO ] 07-04-2024 10:13:12.120 am [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 07-04-2024 10:14:35.076 am [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 07-04-2024 10:14:35.312 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 07-04-2024 10:14:35.357 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 07-04-2024 10:14:35.830 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[INFO ] 07-04-2024 10:14:35.839 am [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 07-04-2024 10:14:35.873 am [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[INFO ] 07-04-2024 10:14:35.882 am [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 07-04-2024 10:17:11.737 am [http-nio-9090-exec-1] com.user.dao.UserDao - User with id 120 is Not Found!!
+[ERROR] 07-04-2024 05:30:54.558 pm [http-nio-9090-exec-2] com.user.dao.UserDao - User with id 103 is Not Found!!
+[ERROR] 07-04-2024 05:39:02.696 pm [http-nio-9090-exec-5] com.user.dao.UserDao - User with id 103 is Not Found!!
+[ERROR] 07-04-2024 05:39:19.557 pm [http-nio-9090-exec-7] com.user.dao.UserDao - User with id 103 is Not Found!!
+[ERROR] 07-04-2024 05:39:26.758 pm [http-nio-9090-exec-9] com.user.dao.UserDao - User with id 103 is Not Found!!
+[INFO ] 07-04-2024 08:56:20.627 pm [http-nio-9090-exec-1] com.user.dao.UserDao - User added successfully!!
+[INFO ] 07-04-2024 09:04:26.152 pm [http-nio-9090-exec-3] com.user.dao.UserDao - User added successfully!!
+[INFO ] 08-04-2024 10:09:58.593 am [http-nio-9090-exec-1] com.user.dao.UserDao - Indside user update...
+[INFO ] 08-04-2024 10:10:46.820 am [http-nio-9090-exec-1] com.user.dao.UserDao - Indside user update...
+[INFO ] 08-04-2024 10:12:18.449 am [http-nio-9090-exec-1] com.user.dao.UserDao - chaitali@gmail.com
+[INFO ] 08-04-2024 10:15:34.386 am [http-nio-9090-exec-1] com.user.dao.UserDao - chaitali@gmail.com
+[INFO ] 08-04-2024 10:45:43.075 am [http-nio-9090-exec-3] com.user.dao.UserDao - User added successfully!!
+[INFO ] 08-04-2024 10:47:12.895 am [http-nio-9090-exec-1] com.user.dao.UserDao - User added successfully!!
+[INFO ] 08-04-2024 10:48:49.861 am [http-nio-9090-exec-3] com.user.dao.UserDao - User added successfully!!
+[INFO ] 08-04-2024 10:50:11.774 am [http-nio-9090-exec-5] com.user.dao.UserDao - User added successfully!!
+[INFO ] 08-04-2024 10:52:30.580 am [http-nio-9090-exec-6] com.user.dao.UserDao - User added successfully!!
+[INFO ] 08-04-2024 10:52:48.908 am [http-nio-9090-exec-7] com.user.dao.UserDao - User added successfully!!
+[INFO ] 08-04-2024 10:52:58.290 am [http-nio-9090-exec-8] com.user.dao.UserDao - User added successfully!!
+[INFO ] 08-04-2024 10:54:38.652 am [http-nio-9090-exec-10] com.user.dao.UserDao - User added successfully!!
+[INFO ] 08-04-2024 10:55:35.758 am [http-nio-9090-exec-1] com.user.dao.UserDao - User added successfully!!
+[INFO ] 08-04-2024 10:57:30.857 am [http-nio-9090-exec-3] com.user.dao.UserDao - User added successfully!!
+[INFO ] 08-04-2024 12:17:07.468 pm [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 08-04-2024 12:17:07.769 pm [main] com.user.dao.UserDao - User with id 1003 is Not Found!!
+[ERROR] 08-04-2024 12:17:07.839 pm [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 08-04-2024 12:17:07.955 pm [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 08-04-2024 12:17:08.107 pm [main] com.user.dao.UserDao - User with id 1002 is Not Found!!
+[ERROR] 08-04-2024 12:17:08.126 pm [main] com.user.dao.UserDao - User with id 1003 is Not Found!!
+[ERROR] 08-04-2024 12:17:08.156 pm [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[INFO ] 08-04-2024 12:17:08.168 pm [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 08-04-2024 12:17:08.229 pm [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[INFO ] 08-04-2024 12:17:08.238 pm [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 08-04-2024 12:17:08.268 pm [main] com.user.dao.UserDao - User with id 1003 is Not Found!!
+[INFO ] 08-04-2024 12:17:19.302 pm [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 08-04-2024 12:17:19.559 pm [main] com.user.dao.UserDao - User with id 1003 is Not Found!!
+[ERROR] 08-04-2024 12:17:19.593 pm [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 08-04-2024 12:17:19.641 pm [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 08-04-2024 12:17:19.765 pm [main] com.user.dao.UserDao - User with id 1002 is Not Found!!
+[ERROR] 08-04-2024 12:17:19.784 pm [main] com.user.dao.UserDao - User with id 1003 is Not Found!!
+[ERROR] 08-04-2024 12:17:19.807 pm [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[INFO ] 08-04-2024 12:17:19.827 pm [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 08-04-2024 12:17:19.888 pm [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[INFO ] 08-04-2024 12:17:19.902 pm [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 08-04-2024 12:17:19.939 pm [main] com.user.dao.UserDao - User with id 1003 is Not Found!!
+[INFO ] 08-04-2024 12:20:40.059 pm [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 08-04-2024 12:20:40.251 pm [main] com.user.dao.UserDao - User with id 1003 is Not Found!!
+[ERROR] 08-04-2024 12:20:40.289 pm [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 08-04-2024 12:20:40.324 pm [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 08-04-2024 12:20:40.760 pm [main] com.user.dao.UserDao - User with id 1003 is Not Found!!
+[ERROR] 08-04-2024 12:20:40.775 pm [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[INFO ] 08-04-2024 12:20:40.786 pm [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 08-04-2024 12:20:40.816 pm [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[INFO ] 08-04-2024 12:20:40.823 pm [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 08-04-2024 09:17:50.509 pm [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 08-04-2024 09:17:50.934 pm [main] com.user.dao.UserDao - User with id 1003 is Not Found!!
+[INFO ] 08-04-2024 09:17:50.966 pm [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 08-04-2024 09:17:50.996 pm [main] com.user.dao.UserDao - User with id 1003 is Not Found!!
+[INFO ] 08-04-2024 09:17:51.008 pm [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 08-04-2024 09:17:51.040 pm [main] com.user.dao.UserDao - User with id 1003 is Not Found!!
+[INFO ] 08-04-2024 09:17:51.050 pm [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 08-04-2024 09:17:51.081 pm [main] com.user.dao.UserDao - User with id 1003 is Not Found!!
+[INFO ] 08-04-2024 09:17:51.092 pm [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 08-04-2024 09:17:51.111 pm [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 08-04-2024 09:17:51.131 pm [main] com.user.dao.UserDao - User with id 1003 is Not Found!!
+[INFO ] 08-04-2024 09:17:51.141 pm [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 08-04-2024 09:17:51.175 pm [main] com.user.dao.UserDao - User with id 1003 is Not Found!!
+[INFO ] 08-04-2024 09:17:51.185 pm [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 08-04-2024 09:17:51.209 pm [main] com.user.dao.UserDao - User with id 1003 is Not Found!!
+[INFO ] 08-04-2024 09:17:51.219 pm [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 08-04-2024 09:17:51.255 pm [main] com.user.dao.UserDao - User with id 1003 is Not Found!!
+[INFO ] 08-04-2024 09:17:51.264 pm [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 08-04-2024 09:17:51.287 pm [main] com.user.dao.UserDao - User with id 1003 is Not Found!!
+[INFO ] 08-04-2024 09:17:51.295 pm [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 08-04-2024 09:17:51.316 pm [main] com.user.dao.UserDao - User with id 1003 is Not Found!!
+[ERROR] 08-04-2024 09:17:51.323 pm [main] com.user.dao.UserDao - User with id 1003 is Not Found!!
+[INFO ] 08-04-2024 09:17:51.333 pm [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 08-04-2024 09:17:51.359 pm [main] com.user.dao.UserDao - User with id 1003 is Not Found!!
+[INFO ] 08-04-2024 09:17:51.367 pm [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 08-04-2024 09:17:51.391 pm [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 08-04-2024 09:17:51.395 pm [main] com.user.dao.UserDao - User with id 1003 is Not Found!!
+[INFO ] 08-04-2024 09:17:51.404 pm [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 08-04-2024 09:17:51.425 pm [main] com.user.dao.UserDao - User with id 1003 is Not Found!!
+[INFO ] 08-04-2024 09:17:51.434 pm [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 08-04-2024 09:17:51.455 pm [main] com.user.dao.UserDao - User with id 1003 is Not Found!!
+[INFO ] 08-04-2024 09:17:51.464 pm [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 08-04-2024 09:17:51.486 pm [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 08-04-2024 09:17:51.491 pm [main] com.user.dao.UserDao - User with id 1003 is Not Found!!
+[INFO ] 08-04-2024 09:17:51.503 pm [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 08-04-2024 09:17:51.574 pm [main] com.user.dao.UserDao - User with id 1003 is Not Found!!
+[INFO ] 08-04-2024 09:17:51.583 pm [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 08-04-2024 09:17:51.604 pm [main] com.user.dao.UserDao - User with id 1003 is Not Found!!
+[INFO ] 08-04-2024 09:17:51.613 pm [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 08-04-2024 09:17:51.630 pm [main] com.user.dao.UserDao - User with id 1003 is Not Found!!
+[INFO ] 08-04-2024 09:17:51.638 pm [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 08-04-2024 09:17:51.663 pm [main] com.user.dao.UserDao - User with id 1003 is Not Found!!
+[INFO ] 08-04-2024 09:17:51.675 pm [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 08-04-2024 09:17:51.694 pm [main] com.user.dao.UserDao - User with id 1002 is Not Found!!
+[ERROR] 08-04-2024 09:17:51.699 pm [main] com.user.dao.UserDao - User with id 1003 is Not Found!!
+[INFO ] 08-04-2024 09:17:51.709 pm [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 08-04-2024 09:17:51.729 pm [main] com.user.dao.UserDao - User with id 1003 is Not Found!!
+[ERROR] 08-04-2024 09:17:51.733 pm [main] com.user.dao.UserDao - User with id 1003 is Not Found!!
+[INFO ] 08-04-2024 09:17:51.742 pm [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 08-04-2024 09:17:51.763 pm [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 08-04-2024 09:17:51.770 pm [main] com.user.dao.UserDao - User with id 1003 is Not Found!!
+[INFO ] 08-04-2024 09:17:51.779 pm [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 08-04-2024 09:17:51.796 pm [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 08-04-2024 09:17:51.815 pm [main] com.user.dao.UserDao - User with id 1003 is Not Found!!
+[INFO ] 08-04-2024 09:17:51.827 pm [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 08-04-2024 09:17:51.846 pm [main] com.user.dao.UserDao - User with id 1003 is Not Found!!
+[INFO ] 08-04-2024 09:17:51.855 pm [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 08-04-2024 09:17:51.875 pm [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[ERROR] 08-04-2024 09:17:51.880 pm [main] com.user.dao.UserDao - User with id 1003 is Not Found!!
+[INFO ] 08-04-2024 09:17:51.888 pm [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 08-04-2024 09:17:51.902 pm [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 08-04-2024 09:17:51.921 pm [main] com.user.dao.UserDao - User with id 1003 is Not Found!!
+[ERROR] 08-04-2024 09:17:51.926 pm [main] com.user.dao.UserDao - User with id 1003 is Not Found!!
+[INFO ] 08-04-2024 09:24:06.605 pm [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 08-04-2024 09:24:07.496 pm [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 08-04-2024 09:24:07.543 pm [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 08-04-2024 09:24:07.591 pm [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 08-04-2024 09:24:07.639 pm [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 08-04-2024 09:24:07.646 pm [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 08-04-2024 09:24:07.687 pm [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 08-04-2024 09:24:07.735 pm [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 08-04-2024 09:24:07.771 pm [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 08-04-2024 09:24:07.831 pm [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 08-04-2024 09:24:07.863 pm [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 08-04-2024 09:24:07.912 pm [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 08-04-2024 09:24:07.944 pm [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 08-04-2024 09:24:07.961 pm [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[INFO ] 08-04-2024 09:24:07.992 pm [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 08-04-2024 09:24:08.033 pm [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 08-04-2024 09:24:08.067 pm [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 08-04-2024 09:24:08.078 pm [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[INFO ] 08-04-2024 09:24:08.103 pm [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 08-04-2024 09:24:08.162 pm [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 08-04-2024 09:24:08.196 pm [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 08-04-2024 09:24:08.224 pm [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 08-04-2024 09:24:08.249 pm [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 08-04-2024 09:24:08.297 pm [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 08-04-2024 09:24:08.339 pm [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 08-04-2024 09:24:08.350 pm [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[INFO ] 08-04-2024 09:24:08.378 pm [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 08-04-2024 09:24:08.384 pm [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 08-04-2024 09:24:08.428 pm [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 08-04-2024 09:24:08.462 pm [main] com.user.dao.UserDao - User added successfully!!
+[ERROR] 08-04-2024 09:24:08.474 pm [main] com.user.dao.UserDao - User with id 1010 is Not Found!!
+[INFO ] 08-04-2024 09:24:08.497 pm [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 08-04-2024 09:24:08.503 pm [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 08-04-2024 09:26:57.954 pm [http-nio-9090-exec-1] com.user.dao.UserDao - User added successfully!!
+[INFO ] 08-04-2024 09:28:16.260 pm [http-nio-9090-exec-1] com.user.dao.UserDao - User added successfully!!
+[INFO ] 10-04-2024 10:32:11.622 am [http-nio-9090-exec-1] com.user.dao.UserDao - User added successfully!!
+[INFO ] 10-04-2024 10:36:04.191 am [http-nio-9090-exec-4] com.user.dao.UserDao - User added successfully!!
+[INFO ] 12-04-2024 11:01:13.390 am [http-nio-9090-exec-8] com.user.dao.UserDao - User added successfully!!
+[INFO ] 12-04-2024 08:18:28.093 pm [http-nio-9090-exec-6] com.user.dao.UserDao - User added successfully!!
+[INFO ] 13-04-2024 10:07:35.386 am [http-nio-9090-exec-4] com.user.dao.UserDao - User added successfully!!
+[INFO ] 14-04-2024 07:33:31.948 pm [http-nio-9090-exec-7] com.user.dao.UserDao - User added successfully!!
+[ERROR] 14-04-2024 08:50:07.503 pm [http-nio-9090-exec-3] com.user.dao.UserDao - User with id 106 is Not Found!!
+[ERROR] 14-04-2024 08:50:09.848 pm [http-nio-9090-exec-7] com.user.dao.UserDao - User with id 106 is Not Found!!
+[INFO ] 14-04-2024 08:52:55.951 pm [http-nio-9090-exec-9] com.user.dao.UserDao - User added successfully!!
+[ERROR] 14-04-2024 08:53:27.418 pm [http-nio-9090-exec-6] com.user.dao.UserDao - User with id 106 is Not Found!!
+[ERROR] 14-04-2024 08:53:30.343 pm [http-nio-9090-exec-1] com.user.dao.UserDao - User with id 106 is Not Found!!
+[ERROR] 14-04-2024 08:53:34.599 pm [http-nio-9090-exec-4] com.user.dao.UserDao - User with id 106 is Not Found!!
+[ERROR] 14-04-2024 08:53:39.015 pm [http-nio-9090-exec-8] com.user.dao.UserDao - User with id 106 is Not Found!!
+[ERROR] 14-04-2024 08:53:56.773 pm [http-nio-9090-exec-2] com.user.dao.UserDao - User with id 106 is Not Found!!
+[ERROR] 14-04-2024 08:54:13.917 pm [http-nio-9090-exec-7] com.user.dao.UserDao - User with id 106 is Not Found!!
+[INFO ] 14-04-2024 09:36:03.697 pm [http-nio-9090-exec-1] com.user.dao.UserDao - User added successfully!!
+[INFO ] 14-04-2024 09:58:28.700 pm [http-nio-9090-exec-1] com.user.dao.UserDao - User added successfully!!
+[INFO ] 14-04-2024 10:08:19.881 pm [http-nio-9090-exec-8] com.user.dao.UserDao - User added successfully!!
+[INFO ] 15-04-2024 11:51:28.460 am [http-nio-9090-exec-1] com.user.dao.UserDao - User added successfully!!
+[INFO ] 26-05-2025 11:24:32.877 am [main] com.user.dao.UserDao - User added successfully!!
+[INFO ] 26-05-2025 11:37:44.510 am [http-nio-9090-exec-3] com.user.dao.UserDao - User added successfully!!
+[INFO ] 26-05-2025 11:44:07.716 am [http-nio-9090-exec-5] com.user.dao.UserDao - User added successfully!!
+[INFO ] 27-05-2025 08:49:57.182 am [http-nio-9090-exec-1] com.user.dao.UserDao - User added successfully!!
+[INFO ] 27-05-2025 08:51:32.587 am [http-nio-9090-exec-3] com.user.dao.UserDao - User added successfully!!

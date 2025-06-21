@@ -1,0 +1,96 @@
+[INFO ] 07-04-2024 12:03:16.347 pm [main] com.driver.dao.DriverDAO - working
+[INFO ] 07-04-2024 12:03:16.820 pm [main] com.driver.dao.DriverDAO - Driver added successfully!!
+[ERROR] 07-04-2024 12:08:13.171 pm [main] com.driver.dao.DriverDAO - Driver Not Found!!
+[INFO ] 07-04-2024 12:08:13.651 pm [main] com.driver.dao.DriverDAO - Driver added successfully!!
+[INFO ] 07-04-2024 12:08:13.891 pm [main] com.driver.dao.DriverDAO - Driver added successfully!!
+[INFO ] 07-04-2024 12:09:55.146 pm [main] com.driver.dao.DriverDAO - Driver added successfully!!
+[ERROR] 07-04-2024 12:10:47.396 pm [main] com.driver.dao.DriverDAO - Driver Not Found!!
+[INFO ] 07-04-2024 12:10:47.911 pm [main] com.driver.dao.DriverDAO - Driver added successfully!!
+[INFO ] 07-04-2024 12:10:48.188 pm [main] com.driver.dao.DriverDAO - Driver added successfully!!
+[INFO ] 07-04-2024 12:12:17.468 pm [main] com.driver.dao.DriverDAO - Driver added successfully!!
+[INFO ] 07-04-2024 12:12:17.696 pm [main] com.driver.dao.DriverDAO - Driver added successfully!!
+[INFO ] 07-04-2024 12:15:07.951 pm [main] com.driver.dao.DriverDAO - Driver added successfully!!
+[INFO ] 07-04-2024 12:15:08.173 pm [main] com.driver.dao.DriverDAO - Driver added successfully!!
+[ERROR] 07-04-2024 12:28:59.609 pm [main] com.driver.dao.DriverDAO - Driver Not Found!!
+[ERROR] 07-04-2024 12:28:59.785 pm [main] com.driver.dao.DriverDAO - Driver Not Found!!
+[INFO ] 07-04-2024 12:29:00.342 pm [main] com.driver.dao.DriverDAO - Driver added successfully!!
+[ERROR] 07-04-2024 12:29:00.370 pm [main] com.driver.dao.DriverDAO - Drivers are not Available for SUV cars
+[ERROR] 07-04-2024 12:29:00.432 pm [main] com.driver.dao.DriverDAO - Driver Not Found!!
+[ERROR] 07-04-2024 12:30:57.839 pm [main] com.driver.dao.DriverDAO - Driver Not Found!!
+[ERROR] 07-04-2024 12:30:58.039 pm [main] com.driver.dao.DriverDAO - Driver Not Found!!
+[ERROR] 07-04-2024 12:30:58.146 pm [main] com.driver.dao.DriverDAO - Driver Not Found!!
+[INFO ] 07-04-2024 12:30:58.576 pm [main] com.driver.dao.DriverDAO - Driver added successfully!!
+[ERROR] 07-04-2024 12:30:58.607 pm [main] com.driver.dao.DriverDAO - Drivers are not Available for SUV cars
+[ERROR] 07-04-2024 12:30:58.708 pm [main] com.driver.dao.DriverDAO - Driver Not Found!!
+[INFO ] 07-04-2024 12:30:58.877 pm [main] com.driver.dao.DriverDAO - Driver added successfully!!
+[ERROR] 07-04-2024 12:37:40.817 pm [main] com.driver.dao.DriverDAO - Driver Not Found!!
+[ERROR] 07-04-2024 12:37:40.959 pm [main] com.driver.dao.DriverDAO - Driver Not Found!!
+[INFO ] 07-04-2024 12:37:41.396 pm [main] com.driver.dao.DriverDAO - Driver added successfully!!
+[ERROR] 07-04-2024 12:37:41.423 pm [main] com.driver.dao.DriverDAO - Drivers are not Available for SUV cars
+[ERROR] 07-04-2024 12:37:41.478 pm [main] com.driver.dao.DriverDAO - Driver Not Found!!
+[INFO ] 07-04-2024 12:37:41.635 pm [main] com.driver.dao.DriverDAO - Driver added successfully!!
+[ERROR] 07-04-2024 12:38:49.811 pm [main] com.driver.dao.DriverDAO - Driver Not Found!!
+[ERROR] 07-04-2024 12:38:49.922 pm [main] com.driver.dao.DriverDAO - Driver Not Found!!
+[INFO ] 07-04-2024 12:38:50.421 pm [main] com.driver.dao.DriverDAO - Driver added successfully!!
+[ERROR] 07-04-2024 12:38:50.447 pm [main] com.driver.dao.DriverDAO - Drivers are not Available for SUV cars
+[ERROR] 07-04-2024 12:38:50.504 pm [main] com.driver.dao.DriverDAO - Driver Not Found!!
+[INFO ] 07-04-2024 12:38:50.657 pm [main] com.driver.dao.DriverDAO - Driver added successfully!!
+[ERROR] 07-04-2024 02:05:37.622 pm [main] com.driver.dao.DriverDAO - Driver Not Found!!
+[ERROR] 07-04-2024 02:05:37.804 pm [main] com.driver.dao.DriverDAO - Driver Not Found!!
+[INFO ] 07-04-2024 02:05:38.475 pm [main] com.driver.dao.DriverDAO - Driver added successfully!!
+[ERROR] 07-04-2024 02:05:38.512 pm [main] com.driver.dao.DriverDAO - Drivers are not Available for SUV cars
+[ERROR] 07-04-2024 02:05:38.610 pm [main] com.driver.dao.DriverDAO - Driver Not Found!!
+[INFO ] 07-04-2024 02:05:38.832 pm [main] com.driver.dao.DriverDAO - Driver added successfully!!
+[ERROR] 07-04-2024 02:22:12.590 pm [main] com.driver.dao.DriverDAO - Driver Not Found!!
+[ERROR] 07-04-2024 02:22:12.786 pm [main] com.driver.dao.DriverDAO - Driver Not Found!!
+[INFO ] 07-04-2024 02:22:13.685 pm [main] com.driver.dao.DriverDAO - Driver added successfully!!
+[ERROR] 07-04-2024 02:22:13.722 pm [main] com.driver.dao.DriverDAO - Drivers are not Available for SUV cars
+[ERROR] 07-04-2024 02:22:13.844 pm [main] com.driver.dao.DriverDAO - Driver Not Found!!
+[INFO ] 07-04-2024 02:22:14.161 pm [main] com.driver.dao.DriverDAO - Driver added successfully!!
+[ERROR] 07-04-2024 02:28:36.967 pm [main] com.driver.dao.DriverDAO - Driver Not Found!!
+[ERROR] 07-04-2024 02:28:37.107 pm [main] com.driver.dao.DriverDAO - Driver Not Found!!
+[INFO ] 07-04-2024 02:28:37.651 pm [main] com.driver.dao.DriverDAO - Driver added successfully!!
+[ERROR] 07-04-2024 02:28:37.680 pm [main] com.driver.dao.DriverDAO - Drivers are not Available for SUV cars
+[ERROR] 07-04-2024 02:28:37.778 pm [main] com.driver.dao.DriverDAO - Driver Not Found!!
+[INFO ] 07-04-2024 02:28:37.961 pm [main] com.driver.dao.DriverDAO - Driver added successfully!!
+[ERROR] 07-04-2024 02:30:39.287 pm [main] com.driver.dao.DriverDAO - Driver Not Found!!
+[ERROR] 07-04-2024 02:30:39.433 pm [main] com.driver.dao.DriverDAO - Driver Not Found!!
+[INFO ] 07-04-2024 02:30:39.907 pm [main] com.driver.dao.DriverDAO - Driver added successfully!!
+[ERROR] 07-04-2024 02:30:39.937 pm [main] com.driver.dao.DriverDAO - Drivers are not Available for SUV cars
+[ERROR] 07-04-2024 02:30:40.029 pm [main] com.driver.dao.DriverDAO - Driver Not Found!!
+[INFO ] 07-04-2024 02:30:40.224 pm [main] com.driver.dao.DriverDAO - Driver added successfully!!
+[ERROR] 07-04-2024 05:40:55.015 pm [http-nio-9091-exec-5] com.driver.dao.DriverDAO - Driver Not Found!!
+[ERROR] 07-04-2024 05:41:24.391 pm [http-nio-9091-exec-8] com.driver.dao.DriverDAO - Driver Not Found!!
+[INFO ] 08-04-2024 11:06:11.714 am [http-nio-9091-exec-3] com.driver.dao.DriverDAO - Driver added successfully!!
+[INFO ] 08-04-2024 11:09:12.310 am [http-nio-9091-exec-7] com.driver.dao.DriverDAO - Driver added successfully!!
+[INFO ] 08-04-2024 11:12:56.592 am [http-nio-9091-exec-9] com.driver.dao.DriverDAO - Driver added successfully!!
+[INFO ] 08-04-2024 11:19:46.762 am [http-nio-9091-exec-1] com.driver.dao.DriverDAO - Driver added successfully!!
+[INFO ] 08-04-2024 11:21:43.065 am [http-nio-9091-exec-3] com.driver.dao.DriverDAO - Driver added successfully!!
+[INFO ] 08-04-2024 11:24:00.006 am [http-nio-9091-exec-5] com.driver.dao.DriverDAO - Driver added successfully!!
+[ERROR] 08-04-2024 12:23:25.676 pm [main] com.driver.dao.DriverDAO - Driver Not Found!!
+[ERROR] 08-04-2024 12:23:25.883 pm [main] com.driver.dao.DriverDAO - Driver Not Found!!
+[ERROR] 08-04-2024 12:23:26.363 pm [main] com.driver.dao.DriverDAO - Drivers are not Available for SUV cars
+[ERROR] 08-04-2024 12:23:26.452 pm [main] com.driver.dao.DriverDAO - Driver Not Found!!
+[INFO ] 08-04-2024 12:23:26.679 pm [main] com.driver.dao.DriverDAO - Driver added successfully!!
+[ERROR] 08-04-2024 12:25:20.395 pm [main] com.driver.dao.DriverDAO - Driver Not Found!!
+[ERROR] 08-04-2024 12:25:20.571 pm [main] com.driver.dao.DriverDAO - Driver Not Found!!
+[ERROR] 08-04-2024 12:25:20.675 pm [main] com.driver.dao.DriverDAO - Driver Not Found!!
+[INFO ] 08-04-2024 12:25:21.128 pm [main] com.driver.dao.DriverDAO - Driver added successfully!!
+[ERROR] 08-04-2024 12:25:21.157 pm [main] com.driver.dao.DriverDAO - Drivers are not Available for SUV cars
+[ERROR] 08-04-2024 12:25:21.250 pm [main] com.driver.dao.DriverDAO - Driver Not Found!!
+[INFO ] 08-04-2024 12:25:21.460 pm [main] com.driver.dao.DriverDAO - Driver added successfully!!
+[ERROR] 08-04-2024 12:26:30.397 pm [main] com.driver.dao.DriverDAO - Driver Not Found!!
+[ERROR] 08-04-2024 12:26:30.549 pm [main] com.driver.dao.DriverDAO - Driver Not Found!!
+[INFO ] 08-04-2024 12:26:31.156 pm [main] com.driver.dao.DriverDAO - Driver added successfully!!
+[ERROR] 08-04-2024 12:26:31.187 pm [main] com.driver.dao.DriverDAO - Drivers are not Available for SUV cars
+[ERROR] 08-04-2024 12:26:31.280 pm [main] com.driver.dao.DriverDAO - Driver Not Found!!
+[INFO ] 08-04-2024 12:26:31.529 pm [main] com.driver.dao.DriverDAO - Driver added successfully!!
+[INFO ] 13-04-2024 06:27:25.476 pm [http-nio-9091-exec-5] com.driver.dao.DriverDAO - Driver added successfully!!
+[INFO ] 13-04-2024 11:17:29.773 pm [http-nio-9091-exec-6] com.driver.dao.DriverDAO - Driver added successfully!!
+[ERROR] 13-04-2024 11:26:08.993 pm [http-nio-9091-exec-9] com.driver.dao.DriverDAO - Drivers are not Available for Mini cars
+[ERROR] 13-04-2024 11:26:33.016 pm [http-nio-9091-exec-10] com.driver.dao.DriverDAO - Drivers are not Available for Mini cars
+[ERROR] 13-04-2024 11:27:33.088 pm [http-nio-9091-exec-1] com.driver.dao.DriverDAO - Drivers are not Available for Mini cars
+[ERROR] 13-04-2024 11:28:17.858 pm [http-nio-9091-exec-3] com.driver.dao.DriverDAO - Drivers are not Available for Mini cars
+[ERROR] 13-04-2024 11:29:09.701 pm [http-nio-9091-exec-4] com.driver.dao.DriverDAO - Drivers are not Available for Mini cars
+[INFO ] 13-04-2024 11:40:41.441 pm [http-nio-9091-exec-7] com.driver.dao.DriverDAO - Driver added successfully!!
+[ERROR] 14-04-2024 03:09:49.885 pm [http-nio-9091-exec-10] com.driver.dao.DriverDAO - Drivers are not Available for Micro cars
