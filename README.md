@@ -25,16 +25,16 @@ Shuttle Run is a full-stack **Cab Booking System** designed using a microservice
 
 ## Project Structure
 
-shuttle-run/
-├── discovery-server/ # Eureka Server
-├── api-gateway/ # Spring Cloud Gateway
-├── auth-service/ # Authentication and JWT
-├── driver-service/ # Driver module
-├── customer-service/ # Customer module
-├── admin-service/ # Admin module
-├── booking-service/ # Booking logic
-├── frontend/ # Angular Frontend
-└── common/ # Shared models/utilities
+shuttle-run/ 
+  ├── discovery-server/ # Eureka Server
+  ├── api-gateway/ # Spring Cloud Gateway
+  ├── auth-service/ # Authentication and JWT
+  ├── driver-service/ # Driver module
+  ├── customer-service/ # Customer module
+  ├── admin-service/ # Admin module
+  ├── booking-service/ # Booking logic
+  ├── frontend/ # Angular Frontend
+  └── common/ # Shared models/utilities
 
 ## Getting Started
 
